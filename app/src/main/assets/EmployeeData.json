@@ -1,0 +1,7832 @@
+[
+  {
+    "fullName": "Kai Le",
+    "jobTitle": "Controls Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 47,
+    "hireDate": "2022-02-05",
+    "salary": 92368
+  },
+  {
+    "fullName": "Robert Patel",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 58,
+    "hireDate": "2013-10-23",
+    "salary": 45703
+  },
+  {
+    "fullName": "Cameron Lo",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 34,
+    "hireDate": "2019-03-24",
+    "salary": 83576
+  },
+  {
+    "fullName": "Harper Castillo",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 39,
+    "hireDate": "2018-04-07",
+    "salary": 98062
+  },
+  {
+    "fullName": "Harper Dominguez",
+    "jobTitle": "Director",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 42,
+    "hireDate": "2005-06-18",
+    "salary": 175391
+  },
+  {
+    "fullName": "Ezra Vu",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 62,
+    "hireDate": "2004-04-22",
+    "salary": 66227
+  },
+  {
+    "fullName": "Jade Hu",
+    "jobTitle": "Sr- Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 58,
+    "hireDate": "2009-06-27",
+    "salary": 89744
+  },
+  {
+    "fullName": "Miles Chang",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 62,
+    "hireDate": "1999-02-19",
+    "salary": 69674
+  },
+  {
+    "fullName": "Gianna Holmes",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 38,
+    "hireDate": "2011-09-09",
+    "salary": 97630
+  },
+  {
+    "fullName": "Jameson Thomas",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 52,
+    "hireDate": "2015-02-05",
+    "salary": 105879
+  },
+  {
+    "fullName": "Jameson Pena",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 49,
+    "hireDate": "2003-10-12",
+    "salary": 40499
+  },
+  {
+    "fullName": "Bella Wu",
+    "jobTitle": "Sr- Analyst",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 63,
+    "hireDate": "2014-08-03",
+    "salary": 71418
+  },
+  {
+    "fullName": "Jose Wong",
+    "jobTitle": "Director",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2017-11-15",
+    "salary": 150558
+  },
+  {
+    "fullName": "Lucas Richardson",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 36,
+    "hireDate": "2018-07-22",
+    "salary": 118912
+  },
+  {
+    "fullName": "Jacob Moore",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 42,
+    "hireDate": "2021-03-24",
+    "salary": 131422
+  },
+  {
+    "fullName": "Luna Lu",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 62,
+    "hireDate": "1997-07-26",
+    "salary": 64208
+  },
+  {
+    "fullName": "Bella Tran",
+    "jobTitle": "Vice President",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2010-08-05",
+    "salary": 254486
+  },
+  {
+    "fullName": "Ivy Chau",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 61,
+    "hireDate": "2019-03-03",
+    "salary": 54811
+  },
+  {
+    "fullName": "Jordan Kumar",
+    "jobTitle": "Service Desk Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 29,
+    "hireDate": "2017-11-11",
+    "salary": 95729
+  },
+  {
+    "fullName": "Sophia Gutierrez",
+    "jobTitle": "Manager",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 63,
+    "hireDate": "2009-02-08",
+    "salary": 102649
+  },
+  {
+    "fullName": "Eli Dang",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2015-11-16",
+    "salary": 122875
+  },
+  {
+    "fullName": "Lillian Lewis",
+    "jobTitle": "Technical Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 43,
+    "hireDate": "2013-08-14",
+    "salary": 83323
+  },
+  {
+    "fullName": "Serenity Cao",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 31,
+    "hireDate": "2018-10-21",
+    "salary": 66721
+  },
+  {
+    "fullName": "Parker Lai",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 48,
+    "hireDate": "2006-11-29",
+    "salary": 246400
+  },
+  {
+    "fullName": "Charles Simmons",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 55,
+    "hireDate": "1997-10-27",
+    "salary": 113525
+  },
+  {
+    "fullName": "Jayden Luu",
+    "jobTitle": "Director",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 64,
+    "hireDate": "2004-05-13",
+    "salary": 184342
+  },
+  {
+    "fullName": "Brooks Richardson",
+    "jobTitle": "Director",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 58,
+    "hireDate": "2020-11-24",
+    "salary": 151341
+  },
+  {
+    "fullName": "Ivy Thompson",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 50,
+    "hireDate": "2004-08-11",
+    "salary": 118900
+  },
+  {
+    "fullName": "Peyton Wright",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 41,
+    "hireDate": "2017-05-13",
+    "salary": 153370
+  },
+  {
+    "fullName": "Wyatt Dinh",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 50,
+    "hireDate": "2002-03-15",
+    "salary": 72860
+  },
+  {
+    "fullName": "Ruby Alexander",
+    "jobTitle": "Vice President",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 59,
+    "hireDate": "2001-08-13",
+    "salary": 255610
+  },
+  {
+    "fullName": "Axel Oh",
+    "jobTitle": "Sr- Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 26,
+    "hireDate": "2020-10-24",
+    "salary": 84962
+  },
+  {
+    "fullName": "Axel Ramirez",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 55,
+    "hireDate": "2017-12-04",
+    "salary": 103795
+  },
+  {
+    "fullName": "Liliana Chang",
+    "jobTitle": "Service Desk Analyst",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2018-01-11",
+    "salary": 97509
+  },
+  {
+    "fullName": "Leonardo Carter",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 50,
+    "hireDate": "2022-09-07",
+    "salary": 54931
+  },
+  {
+    "fullName": "Landon Gonzales",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 54,
+    "hireDate": "2009-08-30",
+    "salary": 88689
+  },
+  {
+    "fullName": "Amelia Dominguez",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 31,
+    "hireDate": "2015-09-23",
+    "salary": 158184
+  },
+  {
+    "fullName": "Silas Ross",
+    "jobTitle": "Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 47,
+    "hireDate": "2016-02-10",
+    "salary": 48523
+  },
+  {
+    "fullName": "Jeremiah Cheng",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 26,
+    "hireDate": "2022-02-05",
+    "salary": 70946
+  },
+  {
+    "fullName": "Chloe Chin",
+    "jobTitle": "Sr- Manager",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 62,
+    "hireDate": "2021-11-13",
+    "salary": 134487
+  },
+  {
+    "fullName": "Ella Martinez",
+    "jobTitle": "Sr- Analyst",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 35,
+    "hireDate": "2012-04-06",
+    "salary": 76111
+  },
+  {
+    "fullName": "Gianna Jones",
+    "jobTitle": "Manager",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 48,
+    "hireDate": "1998-09-26",
+    "salary": 119220
+  },
+  {
+    "fullName": "Austin Chow",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 35,
+    "hireDate": "2021-04-11",
+    "salary": 180858
+  },
+  {
+    "fullName": "Ella Chen",
+    "jobTitle": "Manager",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2005-11-10",
+    "salary": 114072
+  },
+  {
+    "fullName": "Ruby Kaur",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 26,
+    "hireDate": "2021-06-26",
+    "salary": 91672
+  },
+  {
+    "fullName": "Savannah Morales",
+    "jobTitle": "Analyst II",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 48,
+    "hireDate": "2005-01-26",
+    "salary": 71542
+  },
+  {
+    "fullName": "Luca Powell",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 33,
+    "hireDate": "2016-12-18",
+    "salary": 54700
+  },
+  {
+    "fullName": "Parker Thao",
+    "jobTitle": "Analyst II",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "2011-05-08",
+    "salary": 65022
+  },
+  {
+    "fullName": "Ryan Vo",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 38,
+    "hireDate": "2011-04-12",
+    "salary": 65109
+  },
+  {
+    "fullName": "Isabella Ngo",
+    "jobTitle": "Manager",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 49,
+    "hireDate": "2022-01-01",
+    "salary": 126598
+  },
+  {
+    "fullName": "Leah Vega",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 52,
+    "hireDate": "2018-06-07",
+    "salary": 72388
+  },
+  {
+    "fullName": "Jaxson Liu",
+    "jobTitle": "Vice President",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 27,
+    "hireDate": "2021-05-18",
+    "salary": 205216
+  },
+  {
+    "fullName": "Santiago f Ross",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 34,
+    "hireDate": "2012-12-13",
+    "salary": 74004
+  },
+  {
+    "fullName": "Layla Bell",
+    "jobTitle": "Vice President",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 65,
+    "hireDate": "2001-07-26",
+    "salary": 203030
+  },
+  {
+    "fullName": "Bella Morales",
+    "jobTitle": "Director",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 38,
+    "hireDate": "2016-05-10",
+    "salary": 194864
+  },
+  {
+    "fullName": "Eliza Kang",
+    "jobTitle": "Computer Systems Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 63,
+    "hireDate": "2002-01-27",
+    "salary": 76659
+  },
+  {
+    "fullName": "Gabriel Reyes",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 42,
+    "hireDate": "2005-06-10",
+    "salary": 101630
+  },
+  {
+    "fullName": "Piper Garcia",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 60,
+    "hireDate": "1993-11-24",
+    "salary": 126929
+  },
+  {
+    "fullName": "Jacob Cheng",
+    "jobTitle": "Director",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 47,
+    "hireDate": "1999-11-26",
+    "salary": 155890
+  },
+  {
+    "fullName": "Nathan Hong",
+    "jobTitle": "Director",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 50,
+    "hireDate": "2019-10-02",
+    "salary": 150631
+  },
+  {
+    "fullName": "Chloe Kim",
+    "jobTitle": "Sr- Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 39,
+    "hireDate": "2012-07-06",
+    "salary": 72850
+  },
+  {
+    "fullName": "Isaac Guzman",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 46,
+    "hireDate": "2010-08-18",
+    "salary": 57951
+  },
+  {
+    "fullName": "Julian Ford",
+    "jobTitle": "Analyst II",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 50,
+    "hireDate": "2010-07-29",
+    "salary": 70340
+  },
+  {
+    "fullName": "Kinsley Liang",
+    "jobTitle": "Automation Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "2008-08-25",
+    "salary": 98221
+  },
+  {
+    "fullName": "Wesley Yu",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2003-09-24",
+    "salary": 127175
+  },
+  {
+    "fullName": "Serenity Martin",
+    "jobTitle": "Sr- Analyst",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 26,
+    "hireDate": "2021-05-16",
+    "salary": 97542
+  },
+  {
+    "fullName": "Ethan Sanchez",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 34,
+    "hireDate": "2019-05-15",
+    "salary": 81646
+  },
+  {
+    "fullName": "David Sanchez",
+    "jobTitle": "Director",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 38,
+    "hireDate": "2009-07-05",
+    "salary": 182055
+  },
+  {
+    "fullName": "Elias Hsu",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 35,
+    "hireDate": "2022-01-23",
+    "salary": 86777
+  },
+  {
+    "fullName": "Luca Phan",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 39,
+    "hireDate": "2015-06-17",
+    "salary": 129949
+  },
+  {
+    "fullName": "Olivia Xi",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 26,
+    "hireDate": "2020-08-19",
+    "salary": 124535
+  },
+  {
+    "fullName": "Alice Luu",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 60,
+    "hireDate": "1993-07-17",
+    "salary": 81083
+  },
+  {
+    "fullName": "Leonardo Ng",
+    "jobTitle": "Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2019-06-10",
+    "salary": 57727
+  },
+  {
+    "fullName": "Peyton Edwards",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 65,
+    "hireDate": "2020-07-11",
+    "salary": 59344
+  },
+  {
+    "fullName": "Axel Patel",
+    "jobTitle": "Sr- Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 27,
+    "hireDate": "2022-09-13",
+    "salary": 73203
+  },
+  {
+    "fullName": "Eva Chavez",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 63,
+    "hireDate": "2004-01-17",
+    "salary": 83070
+  },
+  {
+    "fullName": "Savannah Lee",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 51,
+    "hireDate": "2020-07-22",
+    "salary": 104008
+  },
+  {
+    "fullName": "Mia Grant",
+    "jobTitle": "Solutions Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 43,
+    "hireDate": "2007-02-16",
+    "salary": 70923
+  },
+  {
+    "fullName": "Eli Richardson",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 31,
+    "hireDate": "2018-04-08",
+    "salary": 159121
+  },
+  {
+    "fullName": "Eloise Perry",
+    "jobTitle": "Sr- Business Partner",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 26,
+    "hireDate": "2020-12-02",
+    "salary": 88921
+  },
+  {
+    "fullName": "Ian Cheng",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 46,
+    "hireDate": "2015-08-30",
+    "salary": 126704
+  },
+  {
+    "fullName": "Penelope Chan",
+    "jobTitle": "Analyst II",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 59,
+    "hireDate": "2012-05-20",
+    "salary": 57704
+  },
+  {
+    "fullName": "Sofia Vasquez",
+    "jobTitle": "Director",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 52,
+    "hireDate": "1996-07-29",
+    "salary": 191455
+  },
+  {
+    "fullName": "Anthony Baker",
+    "jobTitle": "Solutions Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 31,
+    "hireDate": "2021-06-03",
+    "salary": 99937
+  },
+  {
+    "fullName": "Lucas Luong",
+    "jobTitle": "Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 42,
+    "hireDate": "2008-03-12",
+    "salary": 40778
+  },
+  {
+    "fullName": "Xavier Patel",
+    "jobTitle": "Director",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 53,
+    "hireDate": "2021-11-16",
+    "salary": 187740
+  },
+  {
+    "fullName": "Robert Soto",
+    "jobTitle": "HRIS Analyst",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 47,
+    "hireDate": "2008-09-10",
+    "salary": 72384
+  },
+  {
+    "fullName": "Nevaeh Jiang",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2016-08-05",
+    "salary": 143318
+  },
+  {
+    "fullName": "Chloe Reyes",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 45,
+    "hireDate": "2008-06-18",
+    "salary": 191304
+  },
+  {
+    "fullName": "Lucy Edwards",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 33,
+    "hireDate": "2015-03-16",
+    "salary": 175875
+  },
+  {
+    "fullName": "Luna Edwards",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 42,
+    "hireDate": "2014-04-13",
+    "salary": 106726
+  },
+  {
+    "fullName": "Stella Daniels",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 37,
+    "hireDate": "2011-10-30",
+    "salary": 72637
+  },
+  {
+    "fullName": "Ayla Ma",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 27,
+    "hireDate": "2022-12-05",
+    "salary": 118304
+  },
+  {
+    "fullName": "Matthew Avila",
+    "jobTitle": "Computer Systems Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 55,
+    "hireDate": "2003-06-17",
+    "salary": 68592
+  },
+  {
+    "fullName": "Gianna Lim",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 46,
+    "hireDate": "2006-04-01",
+    "salary": 42532
+  },
+  {
+    "fullName": "Joseph Tan",
+    "jobTitle": "Technical Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 37,
+    "hireDate": "2015-08-20",
+    "salary": 65073
+  },
+  {
+    "fullName": "Connor Lai",
+    "jobTitle": "Engineering Manager",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2019-09-22",
+    "salary": 111035
+  },
+  {
+    "fullName": "Ava Owens",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 28,
+    "hireDate": "2020-02-07",
+    "salary": 63066
+  },
+  {
+    "fullName": "Dylan Aguilar",
+    "jobTitle": "Director",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 49,
+    "hireDate": "2007-03-27",
+    "salary": 186192
+  },
+  {
+    "fullName": "Leah Zheng",
+    "jobTitle": "Director",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 52,
+    "hireDate": "2016-06-18",
+    "salary": 182938
+  },
+  {
+    "fullName": "Jade Pham",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 61,
+    "hireDate": "2017-12-12",
+    "salary": 53931
+  },
+  {
+    "fullName": "Theodore Bui",
+    "jobTitle": "Vice President",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 53,
+    "hireDate": "2012-05-13",
+    "salary": 252140
+  },
+  {
+    "fullName": "Asher Chan",
+    "jobTitle": "Sr- Business Partner",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 40,
+    "hireDate": "2018-08-18",
+    "salary": 73041
+  },
+  {
+    "fullName": "Ezekiel Brown",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 27,
+    "hireDate": "2022-03-14",
+    "salary": 120315
+  },
+  {
+    "fullName": "Peyton Allen",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 26,
+    "hireDate": "2020-11-23",
+    "salary": 112264
+  },
+  {
+    "fullName": "Parker Joseph",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 53,
+    "hireDate": "2000-01-21",
+    "salary": 55039
+  },
+  {
+    "fullName": "Kayden Ortiz",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 33,
+    "hireDate": "2013-07-29",
+    "salary": 134782
+  },
+  {
+    "fullName": "Lillian Desai",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 27,
+    "hireDate": "2022-12-12",
+    "salary": 92806
+  },
+  {
+    "fullName": "Avery Gutierrez",
+    "jobTitle": "Vice President",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 56,
+    "hireDate": "2016-07-02",
+    "salary": 181028
+  },
+  {
+    "fullName": "Caroline Sandoval",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 36,
+    "hireDate": "2013-10-03",
+    "salary": 48117
+  },
+  {
+    "fullName": "Hailey Lim",
+    "jobTitle": "Director",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 47,
+    "hireDate": "2005-01-06",
+    "salary": 192753
+  },
+  {
+    "fullName": "Roman Liang",
+    "jobTitle": "Sr- Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 28,
+    "hireDate": "2021-03-04",
+    "salary": 85206
+  },
+  {
+    "fullName": "Elias Rojas",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 30,
+    "hireDate": "2018-01-07",
+    "salary": 58290
+  },
+  {
+    "fullName": "Quinn Lai",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 58,
+    "hireDate": "2003-08-28",
+    "salary": 41946
+  },
+  {
+    "fullName": "Clara Le",
+    "jobTitle": "Service Desk Analyst",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 56,
+    "hireDate": "2021-03-15",
+    "salary": 79388
+  },
+  {
+    "fullName": "Chloe Yoon",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 65,
+    "hireDate": "2002-02-25",
+    "salary": 83854
+  },
+  {
+    "fullName": "Abigail Simmons",
+    "jobTitle": "Sr- Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 29,
+    "hireDate": "2018-04-24",
+    "salary": 126550
+  },
+  {
+    "fullName": "Ayla Espinoza",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 60,
+    "hireDate": "1993-10-01",
+    "salary": 199705
+  },
+  {
+    "fullName": "Nova Lin",
+    "jobTitle": "Vice President",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 31,
+    "hireDate": "2019-04-09",
+    "salary": 201235
+  },
+  {
+    "fullName": "Sadie Singh",
+    "jobTitle": "Director",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2022-03-16",
+    "salary": 182717
+  },
+  {
+    "fullName": "Aaron Powell",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 30,
+    "hireDate": "2017-09-11",
+    "salary": 79975
+  },
+  {
+    "fullName": "Jameson Vargas",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 36,
+    "hireDate": "2011-07-24",
+    "salary": 196554
+  },
+  {
+    "fullName": "Logan Young",
+    "jobTitle": "Vice President",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 39,
+    "hireDate": "2010-08-16",
+    "salary": 239395
+  },
+  {
+    "fullName": "Wyatt Cheung",
+    "jobTitle": "Analyst II",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 44,
+    "hireDate": "2013-07-25",
+    "salary": 53703
+  },
+  {
+    "fullName": "Lucas Zhu",
+    "jobTitle": "Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 53,
+    "hireDate": "2011-03-14",
+    "salary": 123480
+  },
+  {
+    "fullName": "Emily Hong",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 46,
+    "hireDate": "2021-01-09",
+    "salary": 41197
+  },
+  {
+    "fullName": "Luke Ramos",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 30,
+    "hireDate": "2018-07-28",
+    "salary": 72463
+  },
+  {
+    "fullName": "Maya Gupta",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 28,
+    "hireDate": "2019-08-04",
+    "salary": 87675
+  },
+  {
+    "fullName": "Eliana Ha",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 35,
+    "hireDate": "2020-12-15",
+    "salary": 55833
+  },
+  {
+    "fullName": "Lillian Cheng",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 58,
+    "hireDate": "1996-08-20",
+    "salary": 58208
+  },
+  {
+    "fullName": "Alexander Pena",
+    "jobTitle": "Sr- Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 47,
+    "hireDate": "2002-05-24",
+    "salary": 75633
+  },
+  {
+    "fullName": "Leonardo Mai",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2007-01-28",
+    "salary": 79090
+  },
+  {
+    "fullName": "Jack Phillips",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 47,
+    "hireDate": "2015-07-27",
+    "salary": 66138
+  },
+  {
+    "fullName": "Scarlett Delgado",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 57,
+    "hireDate": "2013-08-28",
+    "salary": 80728
+  },
+  {
+    "fullName": "Jack Rogers",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 47,
+    "hireDate": "2005-02-01",
+    "salary": 46202
+  },
+  {
+    "fullName": "Violet Huynh",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 50,
+    "hireDate": "2008-02-29",
+    "salary": 123096
+  },
+  {
+    "fullName": "Victoria Park",
+    "jobTitle": "Analyst",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 27,
+    "hireDate": "2020-03-18",
+    "salary": 45989
+  },
+  {
+    "fullName": "Elizabeth Rodriguez",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 26,
+    "hireDate": "2021-08-13",
+    "salary": 140756
+  },
+  {
+    "fullName": "Samuel Kumar",
+    "jobTitle": "Network Engineer",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2009-03-09",
+    "salary": 85261
+  },
+  {
+    "fullName": "Zoe Maldonado",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 49,
+    "hireDate": "1998-09-25",
+    "salary": 198222
+  },
+  {
+    "fullName": "Natalia Richardson",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 36,
+    "hireDate": "2017-06-02",
+    "salary": 150825
+  },
+  {
+    "fullName": "Madeline Contreras",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 51,
+    "hireDate": "1995-10-31",
+    "salary": 59311
+  },
+  {
+    "fullName": "Raelynn Espinoza",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 46,
+    "hireDate": "2002-09-12",
+    "salary": 44411
+  },
+  {
+    "fullName": "Noah Rojas",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 37,
+    "hireDate": "2019-11-14",
+    "salary": 69408
+  },
+  {
+    "fullName": "Jack Ramos",
+    "jobTitle": "Sr- Analyst",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 43,
+    "hireDate": "2018-06-17",
+    "salary": 96759
+  },
+  {
+    "fullName": "Riley King",
+    "jobTitle": "Director",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 53,
+    "hireDate": "2013-08-10",
+    "salary": 163480
+  },
+  {
+    "fullName": "Naomi Lee",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 58,
+    "hireDate": "2014-04-15",
+    "salary": 91132
+  },
+  {
+    "fullName": "Caleb Jones",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 57,
+    "hireDate": "1996-07-10",
+    "salary": 122825
+  },
+  {
+    "fullName": "Peyton Alvarado",
+    "jobTitle": "Service Desk Analyst",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 31,
+    "hireDate": "2015-10-24",
+    "salary": 73612
+  },
+  {
+    "fullName": "Luca Liu",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 40,
+    "hireDate": "2007-06-22",
+    "salary": 70561
+  },
+  {
+    "fullName": "Christian Johnson",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 47,
+    "hireDate": "2008-05-25",
+    "salary": 60331
+  },
+  {
+    "fullName": "Kinsley Gonzales",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 51,
+    "hireDate": "2007-05-05",
+    "salary": 48772
+  },
+  {
+    "fullName": "Hunter Yoon",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 57,
+    "hireDate": "2020-10-02",
+    "salary": 90599
+  },
+  {
+    "fullName": "Elias Dixon",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 46,
+    "hireDate": "2021-11-22",
+    "salary": 55643
+  },
+  {
+    "fullName": "Owen Guerrero",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 40,
+    "hireDate": "2022-09-03",
+    "salary": 97938
+  },
+  {
+    "fullName": "Lucas Lo",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2004-01-18",
+    "salary": 49627
+  },
+  {
+    "fullName": "Hunter Mitchell",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 54,
+    "hireDate": "2021-04-17",
+    "salary": 58137
+  },
+  {
+    "fullName": "Eliana Bailey",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 27,
+    "hireDate": "2021-01-02",
+    "salary": 120586
+  },
+  {
+    "fullName": "Gabriella Choi",
+    "jobTitle": "Analyst II",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 56,
+    "hireDate": "1999-08-15",
+    "salary": 72925
+  },
+  {
+    "fullName": "Evelyn Alvarado",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 36,
+    "hireDate": "2022-08-12",
+    "salary": 83548
+  },
+  {
+    "fullName": "Wyatt Chan",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 53,
+    "hireDate": "2005-06-28",
+    "salary": 128226
+  },
+  {
+    "fullName": "Sarah Johnson",
+    "jobTitle": "Director",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 31,
+    "hireDate": "2018-03-06",
+    "salary": 150653
+  },
+  {
+    "fullName": "Brooks Evans",
+    "jobTitle": "Sr- Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 45,
+    "hireDate": "2016-05-04",
+    "salary": 80989
+  },
+  {
+    "fullName": "Isaiah Dixon",
+    "jobTitle": "Development Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 29,
+    "hireDate": "2022-02-27",
+    "salary": 74901
+  },
+  {
+    "fullName": "Addison Lo",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 27,
+    "hireDate": "2020-08-28",
+    "salary": 68712
+  },
+  {
+    "fullName": "Nolan Howard",
+    "jobTitle": "Quality Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 26,
+    "hireDate": "2022-04-18",
+    "salary": 82963
+  },
+  {
+    "fullName": "Paisley Dominguez",
+    "jobTitle": "Engineering Manager",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 53,
+    "hireDate": "2009-06-14",
+    "salary": 123203
+  },
+  {
+    "fullName": "Eliana Ho",
+    "jobTitle": "Director",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 64,
+    "hireDate": "2012-09-05",
+    "salary": 195416
+  },
+  {
+    "fullName": "Charles Miller",
+    "jobTitle": "Director",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 32,
+    "hireDate": "2018-06-07",
+    "salary": 156418
+  },
+  {
+    "fullName": "Mia Jiang",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 42,
+    "hireDate": "2015-06-19",
+    "salary": 255892
+  },
+  {
+    "fullName": "Skylar Parker",
+    "jobTitle": "Technical Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 31,
+    "hireDate": "2018-08-05",
+    "salary": 96195
+  },
+  {
+    "fullName": "Zoey Leung",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 40,
+    "hireDate": "2007-09-27",
+    "salary": 77637
+  },
+  {
+    "fullName": "Austin Moua",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 46,
+    "hireDate": "2003-05-27",
+    "salary": 79294
+  },
+  {
+    "fullName": "Christopher Robinson",
+    "jobTitle": "Vice President",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 35,
+    "hireDate": "2016-07-11",
+    "salary": 254287
+  },
+  {
+    "fullName": "Jayden Zhang",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 64,
+    "hireDate": "1994-06-27",
+    "salary": 70516
+  },
+  {
+    "fullName": "Cora Mejia",
+    "jobTitle": "Sr- Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 58,
+    "hireDate": "2014-06-07",
+    "salary": 98296
+  },
+  {
+    "fullName": "Julian Harris",
+    "jobTitle": "Operations Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 61,
+    "hireDate": "2015-12-30",
+    "salary": 98565
+  },
+  {
+    "fullName": "Anthony Espinoza",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 41,
+    "hireDate": "2020-11-16",
+    "salary": 59149
+  },
+  {
+    "fullName": "Aubrey Ruiz",
+    "jobTitle": "Analyst II",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 25,
+    "hireDate": "2021-01-11",
+    "salary": 70126
+  },
+  {
+    "fullName": "Piper Tang",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 50,
+    "hireDate": "2011-07-28",
+    "salary": 216787
+  },
+  {
+    "fullName": "Colton Delgado",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 61,
+    "hireDate": "2006-10-22",
+    "salary": 156512
+  },
+  {
+    "fullName": "Madeline Chung",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 63,
+    "hireDate": "2011-05-26",
+    "salary": 44444
+  },
+  {
+    "fullName": "Ariana Sharma",
+    "jobTitle": "Vice President",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2014-01-24",
+    "salary": 257725
+  },
+  {
+    "fullName": "Julian Marquez",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 33,
+    "hireDate": "2013-09-14",
+    "salary": 122408
+  },
+  {
+    "fullName": "Logan Reyes",
+    "jobTitle": "Quality Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 62,
+    "hireDate": "1995-04-10",
+    "salary": 78251
+  },
+  {
+    "fullName": "Penelope Mai",
+    "jobTitle": "Vice President",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2004-05-02",
+    "salary": 252938
+  },
+  {
+    "fullName": "Ryan Reed",
+    "jobTitle": "Sr- Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 48,
+    "hireDate": "2019-10-28",
+    "salary": 90296
+  },
+  {
+    "fullName": "Grayson Hwang",
+    "jobTitle": "Sr- Analyst",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 42,
+    "hireDate": "2013-04-23",
+    "salary": 91689
+  },
+  {
+    "fullName": "Ezra Tan",
+    "jobTitle": "Sr- Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 49,
+    "hireDate": "1999-12-22",
+    "salary": 158028
+  },
+  {
+    "fullName": "David Ha",
+    "jobTitle": "Sr- Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 33,
+    "hireDate": "2022-07-27",
+    "salary": 89759
+  },
+  {
+    "fullName": "Lillian Vang",
+    "jobTitle": "Technical Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 39,
+    "hireDate": "2015-09-13",
+    "salary": 78640
+  },
+  {
+    "fullName": "Sofia Zhang",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 51,
+    "hireDate": "2005-01-11",
+    "salary": 55368
+  },
+  {
+    "fullName": "Athena Daniels",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 49,
+    "hireDate": "2021-05-23",
+    "salary": 78164
+  },
+  {
+    "fullName": "Jameson Shin",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 30,
+    "hireDate": "2020-05-14",
+    "salary": 76014
+  },
+  {
+    "fullName": "Everly Avila",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 41,
+    "hireDate": "2015-11-13",
+    "salary": 61403
+  },
+  {
+    "fullName": "Liam Nelson",
+    "jobTitle": "Technical Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 58,
+    "hireDate": "2010-12-17",
+    "salary": 80720
+  },
+  {
+    "fullName": "Theodore Lai",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "2008-12-27",
+    "salary": 94026
+  },
+  {
+    "fullName": "Caroline Do",
+    "jobTitle": "Analyst",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 40,
+    "hireDate": "2016-03-06",
+    "salary": 56963
+  },
+  {
+    "fullName": "Josiah Ramos",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 41,
+    "hireDate": "2014-01-08",
+    "salary": 113246
+  },
+  {
+    "fullName": "Colton Alexander",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 45,
+    "hireDate": "2005-08-09",
+    "salary": 76416
+  },
+  {
+    "fullName": "Charles Ramos",
+    "jobTitle": "Sr- Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 57,
+    "hireDate": "2010-04-04",
+    "salary": 74597
+  },
+  {
+    "fullName": "Ellie Wilson",
+    "jobTitle": "Director",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 65,
+    "hireDate": "1996-08-31",
+    "salary": 164102
+  },
+  {
+    "fullName": "Peyton Powell",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 44,
+    "hireDate": "2003-02-16",
+    "salary": 74431
+  },
+  {
+    "fullName": "Hailey Rojas",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 52,
+    "hireDate": "2014-07-15",
+    "salary": 43378
+  },
+  {
+    "fullName": "Kai Singh",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 52,
+    "hireDate": "2001-04-19",
+    "salary": 47587
+  },
+  {
+    "fullName": "Ryan Rivera",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 53,
+    "hireDate": "2001-11-29",
+    "salary": 179983
+  },
+  {
+    "fullName": "Everett Lu",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 31,
+    "hireDate": "2021-11-28",
+    "salary": 115565
+  },
+  {
+    "fullName": "Layla Nunez",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 63,
+    "hireDate": "2017-09-10",
+    "salary": 126064
+  },
+  {
+    "fullName": "Liliana Collins",
+    "jobTitle": "Sr- Manager",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 39,
+    "hireDate": "2013-01-18",
+    "salary": 151666
+  },
+  {
+    "fullName": "Ezekiel Jenkins",
+    "jobTitle": "Service Desk Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 63,
+    "hireDate": "2000-04-11",
+    "salary": 99215
+  },
+  {
+    "fullName": "Christopher Wang",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 27,
+    "hireDate": "2020-08-23",
+    "salary": 71502
+  },
+  {
+    "fullName": "Savannah Rodriguez",
+    "jobTitle": "Director",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 30,
+    "hireDate": "2022-11-18",
+    "salary": 168050
+  },
+  {
+    "fullName": "Lyla Turner",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 51,
+    "hireDate": "2003-11-07",
+    "salary": 130862
+  },
+  {
+    "fullName": "Adrian Ngo",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 58,
+    "hireDate": "2021-09-19",
+    "salary": 85716
+  },
+  {
+    "fullName": "Aria Juarez",
+    "jobTitle": "Director",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 62,
+    "hireDate": "2011-07-30",
+    "salary": 185026
+  },
+  {
+    "fullName": "Audrey Ramos",
+    "jobTitle": "Vice President",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 27,
+    "hireDate": "2021-12-09",
+    "salary": 182403
+  },
+  {
+    "fullName": "Hazel Cho",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 63,
+    "hireDate": "2004-08-12",
+    "salary": 193531
+  },
+  {
+    "fullName": "Iris Chung",
+    "jobTitle": "Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 52,
+    "hireDate": "2013-03-12",
+    "salary": 128301
+  },
+  {
+    "fullName": "Thomas Rodriguez",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 36,
+    "hireDate": "2019-10-09",
+    "salary": 51669
+  },
+  {
+    "fullName": "Avery Lo",
+    "jobTitle": "Automation Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 47,
+    "hireDate": "2001-01-26",
+    "salary": 104289
+  },
+  {
+    "fullName": "Gabriel Bell",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 27,
+    "hireDate": "2021-03-21",
+    "salary": 70181
+  },
+  {
+    "fullName": "Gianna Walker",
+    "jobTitle": "Computer Systems Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 45,
+    "hireDate": "2021-03-23",
+    "salary": 92317
+  },
+  {
+    "fullName": "Axel Bailey",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 47,
+    "hireDate": "2022-12-07",
+    "salary": 99382
+  },
+  {
+    "fullName": "Scarlett Green",
+    "jobTitle": "Network Engineer",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 26,
+    "hireDate": "2020-04-21",
+    "salary": 67702
+  },
+  {
+    "fullName": "Jackson Wong",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 58,
+    "hireDate": "2006-12-26",
+    "salary": 53133
+  },
+  {
+    "fullName": "Eva Jimenez",
+    "jobTitle": "Operations Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 60,
+    "hireDate": "1998-04-13",
+    "salary": 110554
+  },
+  {
+    "fullName": "Ian Ma",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2010-07-09",
+    "salary": 109221
+  },
+  {
+    "fullName": "Luna Castro",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 45,
+    "hireDate": "2007-02-01",
+    "salary": 88933
+  },
+  {
+    "fullName": "Nolan Brooks",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 40,
+    "hireDate": "2014-11-08",
+    "salary": 49342
+  },
+  {
+    "fullName": "Jayden Jones",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 27,
+    "hireDate": "2022-07-09",
+    "salary": 74587
+  },
+  {
+    "fullName": "Asher Hsu",
+    "jobTitle": "Sr- Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 36,
+    "hireDate": "2020-03-13",
+    "salary": 80757
+  },
+  {
+    "fullName": "Greyson Lim",
+    "jobTitle": "Director",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 28,
+    "hireDate": "2022-10-12",
+    "salary": 198662
+  },
+  {
+    "fullName": "Chloe Miller",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 57,
+    "hireDate": "2021-08-12",
+    "salary": 142506
+  },
+  {
+    "fullName": "Jaxson Brooks",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 57,
+    "hireDate": "2022-07-15",
+    "salary": 77028
+  },
+  {
+    "fullName": "Jack Perez",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 30,
+    "hireDate": "2017-01-09",
+    "salary": 80389
+  },
+  {
+    "fullName": "Ruby Reed",
+    "jobTitle": "Vice President",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 26,
+    "hireDate": "2022-01-23",
+    "salary": 249062
+  },
+  {
+    "fullName": "Ivy Rojas",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 53,
+    "hireDate": "2013-01-08",
+    "salary": 52675
+  },
+  {
+    "fullName": "Hudson Wong",
+    "jobTitle": "Sr- Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 59,
+    "hireDate": "2014-05-11",
+    "salary": 83365
+  },
+  {
+    "fullName": "Ryan Yi",
+    "jobTitle": "Solutions Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 56,
+    "hireDate": "2003-08-17",
+    "salary": 82758
+  },
+  {
+    "fullName": "Carter Simmons",
+    "jobTitle": "Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 41,
+    "hireDate": "2012-05-30",
+    "salary": 126406
+  },
+  {
+    "fullName": "Emilia Xu",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 46,
+    "hireDate": "2017-01-24",
+    "salary": 103147
+  },
+  {
+    "fullName": "Adam Medina",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 49,
+    "hireDate": "2020-10-04",
+    "salary": 81622
+  },
+  {
+    "fullName": "Connor Howard",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 42,
+    "hireDate": "2021-03-15",
+    "salary": 44265
+  },
+  {
+    "fullName": "Audrey Duong",
+    "jobTitle": "Vice President",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "1999-03-03",
+    "salary": 213998
+  },
+  {
+    "fullName": "Landon Reyes",
+    "jobTitle": "Director",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 44,
+    "hireDate": "2014-08-23",
+    "salary": 171823
+  },
+  {
+    "fullName": "Noah Ma",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 28,
+    "hireDate": "2018-11-06",
+    "salary": 201013
+  },
+  {
+    "fullName": "Lucas Alexander",
+    "jobTitle": "Director",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 41,
+    "hireDate": "2013-09-20",
+    "salary": 192944
+  },
+  {
+    "fullName": "Henry Vo",
+    "jobTitle": "Controls Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 60,
+    "hireDate": "1996-09-13",
+    "salary": 81699
+  },
+  {
+    "fullName": "Mila Han",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 54,
+    "hireDate": "2009-11-14",
+    "salary": 128791
+  },
+  {
+    "fullName": "Genesis Herrera",
+    "jobTitle": "Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 34,
+    "hireDate": "2015-10-03",
+    "salary": 126898
+  },
+  {
+    "fullName": "Olivia Vazquez",
+    "jobTitle": "Network Engineer",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 53,
+    "hireDate": "2020-04-13",
+    "salary": 93053
+  },
+  {
+    "fullName": "Leilani Ng",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 48,
+    "hireDate": "2011-09-19",
+    "salary": 50513
+  },
+  {
+    "fullName": "Olivia Mendoza",
+    "jobTitle": "Sr- Account Representative",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 43,
+    "hireDate": "2017-05-07",
+    "salary": 86533
+  },
+  {
+    "fullName": "Skylar Xu",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 60,
+    "hireDate": "1997-10-16",
+    "salary": 72806
+  },
+  {
+    "fullName": "Eloise Williams",
+    "jobTitle": "Vice President",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 42,
+    "hireDate": "2019-02-12",
+    "salary": 258115
+  },
+  {
+    "fullName": "Jackson Maldonado",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 52,
+    "hireDate": "2008-05-01",
+    "salary": 63444
+  },
+  {
+    "fullName": "Christian Harris",
+    "jobTitle": "Engineering Manager",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 50,
+    "hireDate": "1999-02-21",
+    "salary": 96099
+  },
+  {
+    "fullName": "Penelope Santos",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 37,
+    "hireDate": "2009-03-01",
+    "salary": 92849
+  },
+  {
+    "fullName": "Nicholas Zhou",
+    "jobTitle": "Sr- Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 58,
+    "hireDate": "2014-10-28",
+    "salary": 85094
+  },
+  {
+    "fullName": "Ayla Garza",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 39,
+    "hireDate": "2017-06-15",
+    "salary": 156224
+  },
+  {
+    "fullName": "Carson Mai",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 50,
+    "hireDate": "1996-04-15",
+    "salary": 245920
+  },
+  {
+    "fullName": "Luna Lu",
+    "jobTitle": "Analyst II",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 51,
+    "hireDate": "2007-03-06",
+    "salary": 50214
+  },
+  {
+    "fullName": "Anthony Ho",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 31,
+    "hireDate": "2015-01-11",
+    "salary": 79713
+  },
+  {
+    "fullName": "Clara Lopez",
+    "jobTitle": "Director",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 52,
+    "hireDate": "1999-08-09",
+    "salary": 166699
+  },
+  {
+    "fullName": "Melody Woods",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 63,
+    "hireDate": "2010-12-20",
+    "salary": 78788
+  },
+  {
+    "fullName": "Matthew Simmons",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 28,
+    "hireDate": "2022-12-19",
+    "salary": 142797
+  },
+  {
+    "fullName": "Gabriella Carrillo",
+    "jobTitle": "Vice President",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 39,
+    "hireDate": "2012-07-16",
+    "salary": 187516
+  },
+  {
+    "fullName": "Lydia Juarez",
+    "jobTitle": "Director",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 36,
+    "hireDate": "2013-09-21",
+    "salary": 156029
+  },
+  {
+    "fullName": "Ava Carrillo",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 63,
+    "hireDate": "1999-01-01",
+    "salary": 149582
+  },
+  {
+    "fullName": "Elena Sharma",
+    "jobTitle": "Director",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 47,
+    "hireDate": "2014-10-24",
+    "salary": 163922
+  },
+  {
+    "fullName": "Julia Ahmed",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2004-11-14",
+    "salary": 240860
+  },
+  {
+    "fullName": "Iris Vo",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 39,
+    "hireDate": "2018-09-27",
+    "salary": 128497
+  },
+  {
+    "fullName": "Hunter Yi",
+    "jobTitle": "Automation Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "2015-05-10",
+    "salary": 121976
+  },
+  {
+    "fullName": "Valentina Oh",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2022-07-12",
+    "salary": 126464
+  },
+  {
+    "fullName": "Kinsley Tran",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 53,
+    "hireDate": "2005-09-05",
+    "salary": 234064
+  },
+  {
+    "fullName": "Christian Hong",
+    "jobTitle": "Sr- Analyst",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 59,
+    "hireDate": "2008-01-16",
+    "salary": 81829
+  },
+  {
+    "fullName": "Amelia Mehta",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 26,
+    "hireDate": "2022-04-21",
+    "salary": 193971
+  },
+  {
+    "fullName": "Axel Leung",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "2001-08-17",
+    "salary": 47696
+  },
+  {
+    "fullName": "Lucas Lam",
+    "jobTitle": "Manager",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 34,
+    "hireDate": "2013-07-17",
+    "salary": 116676
+  },
+  {
+    "fullName": "Jose Thompson",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 45,
+    "hireDate": "2012-04-05",
+    "salary": 104162
+  },
+  {
+    "fullName": "Wesley Duong",
+    "jobTitle": "Sr- Business Partner",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 29,
+    "hireDate": "2022-04-14",
+    "salary": 86226
+  },
+  {
+    "fullName": "Adeline Maldonado",
+    "jobTitle": "Director",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 45,
+    "hireDate": "2011-05-30",
+    "salary": 172206
+  },
+  {
+    "fullName": "Elias Diaz",
+    "jobTitle": "HRIS Analyst",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 34,
+    "hireDate": "2012-04-06",
+    "salary": 55985
+  },
+  {
+    "fullName": "Wyatt Aguilar",
+    "jobTitle": "Technical Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 26,
+    "hireDate": "2021-06-06",
+    "salary": 61481
+  },
+  {
+    "fullName": "Josephine Espinoza",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 30,
+    "hireDate": "2017-11-26",
+    "salary": 124295
+  },
+  {
+    "fullName": "Adeline Lai",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "1999-02-08",
+    "salary": 132894
+  },
+  {
+    "fullName": "Christopher Vu",
+    "jobTitle": "Computer Systems Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 47,
+    "hireDate": "2002-03-16",
+    "salary": 88839
+  },
+  {
+    "fullName": "Kai Vega",
+    "jobTitle": "Automation Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 51,
+    "hireDate": "2005-06-16",
+    "salary": 78107
+  },
+  {
+    "fullName": "Hailey Chin",
+    "jobTitle": "Sr- Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 54,
+    "hireDate": "1993-07-10",
+    "salary": 135642
+  },
+  {
+    "fullName": "Eleanor Xi",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 64,
+    "hireDate": "1997-01-10",
+    "salary": 147853
+  },
+  {
+    "fullName": "Lily Molina",
+    "jobTitle": "Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 40,
+    "hireDate": "2009-09-15",
+    "salary": 125900
+  },
+  {
+    "fullName": "Levi Vasquez",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 27,
+    "hireDate": "2020-02-10",
+    "salary": 42969
+  },
+  {
+    "fullName": "Elijah Washington",
+    "jobTitle": "Vice President",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 47,
+    "hireDate": "2022-02-13",
+    "salary": 214303
+  },
+  {
+    "fullName": "Gianna Park",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 28,
+    "hireDate": "2020-12-19",
+    "salary": 199406
+  },
+  {
+    "fullName": "Melody Leung",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 35,
+    "hireDate": "2015-03-20",
+    "salary": 182436
+  },
+  {
+    "fullName": "Liliana Valdez",
+    "jobTitle": "Computer Systems Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 59,
+    "hireDate": "1996-10-01",
+    "salary": 96507
+  },
+  {
+    "fullName": "Ezekiel Kumar",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 33,
+    "hireDate": "2015-11-19",
+    "salary": 82906
+  },
+  {
+    "fullName": "Ruby Rahman",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 62,
+    "hireDate": "2005-12-05",
+    "salary": 41616
+  },
+  {
+    "fullName": "Natalie Stewart",
+    "jobTitle": "Network Engineer",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 50,
+    "hireDate": "2003-06-30",
+    "salary": 92344
+  },
+  {
+    "fullName": "Charlotte Lim",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "2006-06-27",
+    "salary": 196614
+  },
+  {
+    "fullName": "Elena Campos",
+    "jobTitle": "Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 47,
+    "hireDate": "2022-02-06",
+    "salary": 104253
+  },
+  {
+    "fullName": "Vivian Lim",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 34,
+    "hireDate": "2021-01-22",
+    "salary": 44677
+  },
+  {
+    "fullName": "Madison Xu",
+    "jobTitle": "Network Engineer",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 39,
+    "hireDate": "2017-12-13",
+    "salary": 66463
+  },
+  {
+    "fullName": "Ava Aguilar",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 35,
+    "hireDate": "2015-12-17",
+    "salary": 53285
+  },
+  {
+    "fullName": "Kayden Patel",
+    "jobTitle": "Development Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 54,
+    "hireDate": "1997-03-22",
+    "salary": 67683
+  },
+  {
+    "fullName": "Penelope Desai",
+    "jobTitle": "Vice President",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 41,
+    "hireDate": "2018-10-29",
+    "salary": 238155
+  },
+  {
+    "fullName": "Henry Vang",
+    "jobTitle": "Director",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 37,
+    "hireDate": "2019-06-21",
+    "salary": 173630
+  },
+  {
+    "fullName": "Eliana Turner",
+    "jobTitle": "Sr- Analyst",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 29,
+    "hireDate": "2020-01-27",
+    "salary": 98992
+  },
+  {
+    "fullName": "Charlotte Tran",
+    "jobTitle": "Vice President",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 64,
+    "hireDate": "2017-04-11",
+    "salary": 253330
+  },
+  {
+    "fullName": "Everly Coleman",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 54,
+    "hireDate": "2011-08-14",
+    "salary": 158403
+  },
+  {
+    "fullName": "Matthew Harris",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 36,
+    "hireDate": "2021-03-27",
+    "salary": 156085
+  },
+  {
+    "fullName": "Emilia Barnes",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 54,
+    "hireDate": "2013-04-18",
+    "salary": 80129
+  },
+  {
+    "fullName": "Sophie Griffin",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 56,
+    "hireDate": "2017-01-09",
+    "salary": 60517
+  },
+  {
+    "fullName": "Kai Phillips",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 48,
+    "hireDate": "2016-12-13",
+    "salary": 72315
+  },
+  {
+    "fullName": "Dylan Khan",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 35,
+    "hireDate": "2015-07-11",
+    "salary": 153815
+  },
+  {
+    "fullName": "Nevaeh Clark",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 32,
+    "hireDate": "2018-08-16",
+    "salary": 139552
+  },
+  {
+    "fullName": "Carter Luu",
+    "jobTitle": "Vice President",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 25,
+    "hireDate": "2022-10-20",
+    "salary": 257296
+  },
+  {
+    "fullName": "Jordan Ngo",
+    "jobTitle": "Sr- Analyst",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 26,
+    "hireDate": "2020-05-04",
+    "salary": 91372
+  },
+  {
+    "fullName": "Jackson Hu",
+    "jobTitle": "Sr- Business Partner",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 53,
+    "hireDate": "2017-06-05",
+    "salary": 73601
+  },
+  {
+    "fullName": "Madelyn Kang",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 37,
+    "hireDate": "2013-04-29",
+    "salary": 71871
+  },
+  {
+    "fullName": "Everleigh Bell",
+    "jobTitle": "Sr- Account Representative",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 31,
+    "hireDate": "2016-02-07",
+    "salary": 84925
+  },
+  {
+    "fullName": "Eliana Trinh",
+    "jobTitle": "Sr- Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 47,
+    "hireDate": "2010-01-07",
+    "salary": 155600
+  },
+  {
+    "fullName": "Oliver Ford",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 32,
+    "hireDate": "2018-12-15",
+    "salary": 101564
+  },
+  {
+    "fullName": "Ryan Huang",
+    "jobTitle": "Controls Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 40,
+    "hireDate": "2009-10-12",
+    "salary": 80150
+  },
+  {
+    "fullName": "Gabriel Ahmed",
+    "jobTitle": "HRIS Analyst",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 65,
+    "hireDate": "2021-10-09",
+    "salary": 73996
+  },
+  {
+    "fullName": "Ivy Rios",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 25,
+    "hireDate": "2022-01-18",
+    "salary": 90109
+  },
+  {
+    "fullName": "Luca Hunter",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 39,
+    "hireDate": "2022-06-27",
+    "salary": 67216
+  },
+  {
+    "fullName": "Claire Owens",
+    "jobTitle": "Network Engineer",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 52,
+    "hireDate": "1998-06-07",
+    "salary": 75402
+  },
+  {
+    "fullName": "Aubrey Maldonado",
+    "jobTitle": "Automation Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 38,
+    "hireDate": "2022-06-13",
+    "salary": 120795
+  },
+  {
+    "fullName": "Elias Vasquez",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 33,
+    "hireDate": "2015-07-27",
+    "salary": 44012
+  },
+  {
+    "fullName": "Melody Luu",
+    "jobTitle": "Vice President",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 28,
+    "hireDate": "2021-04-03",
+    "salary": 219180
+  },
+  {
+    "fullName": "Christopher Luu",
+    "jobTitle": "Vice President",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 61,
+    "hireDate": "2005-10-27",
+    "salary": 258700
+  },
+  {
+    "fullName": "James Han",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2018-01-07",
+    "salary": 97496
+  },
+  {
+    "fullName": "Jaxson Ayala",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 28,
+    "hireDate": "2020-08-01",
+    "salary": 239270
+  },
+  {
+    "fullName": "Levi James",
+    "jobTitle": "Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 39,
+    "hireDate": "2012-03-02",
+    "salary": 103466
+  },
+  {
+    "fullName": "Grayson Carrillo",
+    "jobTitle": "Sr- Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 57,
+    "hireDate": "2001-06-27",
+    "salary": 74662
+  },
+  {
+    "fullName": "Maverick Hwang",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 40,
+    "hireDate": "2015-04-20",
+    "salary": 227816
+  },
+  {
+    "fullName": "Noah Truong",
+    "jobTitle": "Vice President",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 47,
+    "hireDate": "2013-12-08",
+    "salary": 246680
+  },
+  {
+    "fullName": "Willow Guzman",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 43,
+    "hireDate": "2010-06-26",
+    "salary": 85164
+  },
+  {
+    "fullName": "Rylee Howard",
+    "jobTitle": "Sr- Manager",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 33,
+    "hireDate": "2014-08-18",
+    "salary": 135215
+  },
+  {
+    "fullName": "Ian Marquez",
+    "jobTitle": "HRIS Analyst",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 31,
+    "hireDate": "2019-01-14",
+    "salary": 72542
+  },
+  {
+    "fullName": "Layla Owens",
+    "jobTitle": "Vice President",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 47,
+    "hireDate": "2018-02-07",
+    "salary": 246303
+  },
+  {
+    "fullName": "Chloe Dixon",
+    "jobTitle": "Vice President",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 60,
+    "hireDate": "2021-05-11",
+    "salary": 186400
+  },
+  {
+    "fullName": "Emily Zheng",
+    "jobTitle": "Solutions Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 50,
+    "hireDate": "2022-12-06",
+    "salary": 91004
+  },
+  {
+    "fullName": "Jayden Rogers",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 41,
+    "hireDate": "2016-12-14",
+    "salary": 101411
+  },
+  {
+    "fullName": "Elizabeth Vasquez",
+    "jobTitle": "Controls Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 28,
+    "hireDate": "2020-08-09",
+    "salary": 111779
+  },
+  {
+    "fullName": "Samantha Ford",
+    "jobTitle": "Technical Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 25,
+    "hireDate": "2022-01-19",
+    "salary": 86075
+  },
+  {
+    "fullName": "Thomas Silva",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 45,
+    "hireDate": "2015-08-13",
+    "salary": 52798
+  },
+  {
+    "fullName": "Charlotte Park",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 63,
+    "hireDate": "2020-12-17",
+    "salary": 96136
+  },
+  {
+    "fullName": "Liam Jimenez",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 52,
+    "hireDate": "2002-08-11",
+    "salary": 95682
+  },
+  {
+    "fullName": "Ivy Liu",
+    "jobTitle": "Analyst II",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 59,
+    "hireDate": "1993-05-29",
+    "salary": 55476
+  },
+  {
+    "fullName": "Jayden Dixon",
+    "jobTitle": "Vice President",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 30,
+    "hireDate": "2018-01-14",
+    "salary": 197792
+  },
+  {
+    "fullName": "Nevaeh Butler",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 55,
+    "hireDate": "2009-07-10",
+    "salary": 82271
+  },
+  {
+    "fullName": "Leonardo Li",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 65,
+    "hireDate": "2009-04-23",
+    "salary": 155716
+  },
+  {
+    "fullName": "Kinsley Woods",
+    "jobTitle": "HRIS Analyst",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 34,
+    "hireDate": "2014-06-19",
+    "salary": 71699
+  },
+  {
+    "fullName": "Abigail Chu",
+    "jobTitle": "Sr- Manager",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 51,
+    "hireDate": "2006-04-17",
+    "salary": 147436
+  },
+  {
+    "fullName": "Ava Xiong",
+    "jobTitle": "Sr- Business Partner",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 52,
+    "hireDate": "2019-07-21",
+    "salary": 88220
+  },
+  {
+    "fullName": "Olivia Marquez",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 44,
+    "hireDate": "2020-04-06",
+    "salary": 54295
+  },
+  {
+    "fullName": "Claire Vazquez",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 44,
+    "hireDate": "2004-06-12",
+    "salary": 246538
+  },
+  {
+    "fullName": "Christian Castro",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 40,
+    "hireDate": "2006-04-15",
+    "salary": 43645
+  },
+  {
+    "fullName": "Mason Oh",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 25,
+    "hireDate": "2022-04-11",
+    "salary": 125644
+  },
+  {
+    "fullName": "Violet Santiago",
+    "jobTitle": "Service Desk Analyst",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 32,
+    "hireDate": "2018-01-14",
+    "salary": 78414
+  },
+  {
+    "fullName": "Lily Rios",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 45,
+    "hireDate": "2013-01-25",
+    "salary": 88016
+  },
+  {
+    "fullName": "Kinsley Stewart",
+    "jobTitle": "Computer Systems Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 56,
+    "hireDate": "2021-09-07",
+    "salary": 66561
+  },
+  {
+    "fullName": "Aria Molina",
+    "jobTitle": "Development Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 52,
+    "hireDate": "2001-10-24",
+    "salary": 89811
+  },
+  {
+    "fullName": "James Cheng",
+    "jobTitle": "Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 49,
+    "hireDate": "2010-05-26",
+    "salary": 125506
+  },
+  {
+    "fullName": "Mila Vang",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 46,
+    "hireDate": "2009-08-25",
+    "salary": 56409
+  },
+  {
+    "fullName": "Alice Liu",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 39,
+    "hireDate": "2012-02-22",
+    "salary": 122058
+  },
+  {
+    "fullName": "Delilah Gonzalez",
+    "jobTitle": "Sr- Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 55,
+    "hireDate": "1998-03-29",
+    "salary": 82550
+  },
+  {
+    "fullName": "Samuel Tang",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 34,
+    "hireDate": "2012-09-15",
+    "salary": 93760
+  },
+  {
+    "fullName": "Serenity Gray",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 56,
+    "hireDate": "2012-06-19",
+    "salary": 55008
+  },
+  {
+    "fullName": "Benjamin Estrada",
+    "jobTitle": "Analyst II",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 56,
+    "hireDate": "2012-09-28",
+    "salary": 65368
+  },
+  {
+    "fullName": "Wesley Han",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 62,
+    "hireDate": "2017-04-20",
+    "salary": 83955
+  },
+  {
+    "fullName": "Nora Herrera",
+    "jobTitle": "Vice President",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 60,
+    "hireDate": "1997-12-24",
+    "salary": 231907
+  },
+  {
+    "fullName": "Lincoln Harris",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 42,
+    "hireDate": "2009-09-16",
+    "salary": 97628
+  },
+  {
+    "fullName": "Charles Gonzales",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 27,
+    "hireDate": "2020-09-22",
+    "salary": 88142
+  },
+  {
+    "fullName": "Athena Cheng",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 37,
+    "hireDate": "2020-03-02",
+    "salary": 83465
+  },
+  {
+    "fullName": "David Garza",
+    "jobTitle": "Director",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 29,
+    "hireDate": "2022-01-09",
+    "salary": 197731
+  },
+  {
+    "fullName": "Hunter Doan",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2014-12-15",
+    "salary": 151758
+  },
+  {
+    "fullName": "Julian Lam",
+    "jobTitle": "Director",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 33,
+    "hireDate": "2013-09-08",
+    "salary": 164340
+  },
+  {
+    "fullName": "Sofia Estrada",
+    "jobTitle": "Controls Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 42,
+    "hireDate": "2006-03-26",
+    "salary": 104916
+  },
+  {
+    "fullName": "Jordan Chen",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 60,
+    "hireDate": "1997-01-22",
+    "salary": 42536
+  },
+  {
+    "fullName": "Eloise Huang",
+    "jobTitle": "Vice President",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 51,
+    "hireDate": "2009-04-05",
+    "salary": 195171
+  },
+  {
+    "fullName": "Ivy Mehta",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 50,
+    "hireDate": "2020-05-26",
+    "salary": 45290
+  },
+  {
+    "fullName": "Eli Castillo",
+    "jobTitle": "Vice President",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 50,
+    "hireDate": "2009-12-11",
+    "salary": 203306
+  },
+  {
+    "fullName": "Nolan Garcia",
+    "jobTitle": "Analyst II",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 26,
+    "hireDate": "2022-06-16",
+    "salary": 66865
+  },
+  {
+    "fullName": "Alexander Zhu",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 30,
+    "hireDate": "2022-10-17",
+    "salary": 89164
+  },
+  {
+    "fullName": "Victoria Wu",
+    "jobTitle": "Sr- Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 35,
+    "hireDate": "2021-10-28",
+    "salary": 75602
+  },
+  {
+    "fullName": "Mateo Jordan",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 44,
+    "hireDate": "2021-02-13",
+    "salary": 92939
+  },
+  {
+    "fullName": "Everly Martin",
+    "jobTitle": "Analyst II",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 26,
+    "hireDate": "2020-05-28",
+    "salary": 64278
+  },
+  {
+    "fullName": "Athena Castro",
+    "jobTitle": "Solutions Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 44,
+    "hireDate": "2013-10-04",
+    "salary": 72176
+  },
+  {
+    "fullName": "Josephine White",
+    "jobTitle": "Computer Systems Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 61,
+    "hireDate": "2010-02-05",
+    "salary": 87758
+  },
+  {
+    "fullName": "Nicholas Vo",
+    "jobTitle": "Analyst II",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 50,
+    "hireDate": "2002-06-01",
+    "salary": 54646
+  },
+  {
+    "fullName": "Jackson Sandoval",
+    "jobTitle": "HRIS Analyst",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 61,
+    "hireDate": "2011-01-26",
+    "salary": 73323
+  },
+  {
+    "fullName": "Olivia Turner",
+    "jobTitle": "Director",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 29,
+    "hireDate": "2021-01-07",
+    "salary": 151492
+  },
+  {
+    "fullName": "Cooper Rivera",
+    "jobTitle": "Sr- Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 42,
+    "hireDate": "2005-12-26",
+    "salary": 138215
+  },
+  {
+    "fullName": "Hailey Washington",
+    "jobTitle": "Sr- Manager",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 51,
+    "hireDate": "2013-07-03",
+    "salary": 135578
+  },
+  {
+    "fullName": "Mia Vasquez",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 27,
+    "hireDate": "2019-12-02",
+    "salary": 64297
+  },
+  {
+    "fullName": "Jose Grant",
+    "jobTitle": "Development Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 52,
+    "hireDate": "2021-06-28",
+    "salary": 94857
+  },
+  {
+    "fullName": "Nathan Yee",
+    "jobTitle": "Development Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 58,
+    "hireDate": "2009-10-24",
+    "salary": 77196
+  },
+  {
+    "fullName": "Isabella Munoz",
+    "jobTitle": "Director",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 45,
+    "hireDate": "2002-12-25",
+    "salary": 193154
+  },
+  {
+    "fullName": "Michael Turner",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 28,
+    "hireDate": "2019-12-29",
+    "salary": 115916
+  },
+  {
+    "fullName": "Oliver Jones",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 56,
+    "hireDate": "2016-03-20",
+    "salary": 192374
+  },
+  {
+    "fullName": "Charles Taylor",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 32,
+    "hireDate": "2019-07-15",
+    "salary": 186869
+  },
+  {
+    "fullName": "Gianna Alvarez",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 58,
+    "hireDate": "1993-05-11",
+    "salary": 49293
+  },
+  {
+    "fullName": "Nova Martin",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 39,
+    "hireDate": "2013-04-13",
+    "salary": 129087
+  },
+  {
+    "fullName": "Julia Gonzalez",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 46,
+    "hireDate": "2005-02-15",
+    "salary": 54831
+  },
+  {
+    "fullName": "Athena Vu",
+    "jobTitle": "Analyst",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 26,
+    "hireDate": "2020-11-28",
+    "salary": 51825
+  },
+  {
+    "fullName": "Caroline Bui",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 36,
+    "hireDate": "2019-09-15",
+    "salary": 67457
+  },
+  {
+    "fullName": "Daniel Ali",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2019-09-28",
+    "salary": 94555
+  },
+  {
+    "fullName": "Iris Huang",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2008-03-28",
+    "salary": 163686
+  },
+  {
+    "fullName": "Natalia Cheng",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 65,
+    "hireDate": "2002-07-29",
+    "salary": 47919
+  },
+  {
+    "fullName": "Owen Evans",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 34,
+    "hireDate": "2021-05-28",
+    "salary": 68972
+  },
+  {
+    "fullName": "Angel Dixon",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 52,
+    "hireDate": "2002-04-01",
+    "salary": 50775
+  },
+  {
+    "fullName": "Aubrey Guerrero",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 39,
+    "hireDate": "2013-02-12",
+    "salary": 122713
+  },
+  {
+    "fullName": "Ivy Do",
+    "jobTitle": "Analyst II",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 57,
+    "hireDate": "1993-05-13",
+    "salary": 57230
+  },
+  {
+    "fullName": "Kai Gutierrez",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 63,
+    "hireDate": "1997-12-17",
+    "salary": 148794
+  },
+  {
+    "fullName": "Caroline Ahmed",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2016-12-23",
+    "salary": 155884
+  },
+  {
+    "fullName": "Alice Sharma",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 51,
+    "hireDate": "2018-10-05",
+    "salary": 50975
+  },
+  {
+    "fullName": "Leo Simmons",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 38,
+    "hireDate": "2017-12-13",
+    "salary": 52200
+  },
+  {
+    "fullName": "Asher Hong",
+    "jobTitle": "Director",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 53,
+    "hireDate": "2018-04-17",
+    "salary": 154141
+  },
+  {
+    "fullName": "Gianna Ramirez",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 59,
+    "hireDate": "1993-07-25",
+    "salary": 69245
+  },
+  {
+    "fullName": "Thomas Smith",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 57,
+    "hireDate": "1999-04-02",
+    "salary": 78212
+  },
+  {
+    "fullName": "Carter Hunter",
+    "jobTitle": "Sr- Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 41,
+    "hireDate": "2019-10-07",
+    "salary": 72650
+  },
+  {
+    "fullName": "Charlotte Green",
+    "jobTitle": "Automation Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 33,
+    "hireDate": "2020-11-10",
+    "salary": 124681
+  },
+  {
+    "fullName": "Lincoln Holmes",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 35,
+    "hireDate": "2013-08-21",
+    "salary": 89051
+  },
+  {
+    "fullName": "Hudson Hu",
+    "jobTitle": "Automation Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 36,
+    "hireDate": "2019-12-02",
+    "salary": 121049
+  },
+  {
+    "fullName": "Noah Mitchell",
+    "jobTitle": "Network Engineer",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 54,
+    "hireDate": "2007-06-15",
+    "salary": 70519
+  },
+  {
+    "fullName": "Liliana Choi",
+    "jobTitle": "Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "2007-01-25",
+    "salary": 106302
+  },
+  {
+    "fullName": "Leonardo Cho",
+    "jobTitle": "Engineering Manager",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 38,
+    "hireDate": "2008-08-25",
+    "salary": 119960
+  },
+  {
+    "fullName": "Oliver Delgado",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 45,
+    "hireDate": "2017-02-22",
+    "salary": 84309
+  },
+  {
+    "fullName": "Isabella Roberts",
+    "jobTitle": "Vice President",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 53,
+    "hireDate": "2007-08-20",
+    "salary": 228494
+  },
+  {
+    "fullName": "Luca Desai",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2017-05-23",
+    "salary": 112076
+  },
+  {
+    "fullName": "William Juarez",
+    "jobTitle": "Technical Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 65,
+    "hireDate": "2016-07-29",
+    "salary": 88533
+  },
+  {
+    "fullName": "Ryan Alvarez",
+    "jobTitle": "HRIS Analyst",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 62,
+    "hireDate": "2018-11-29",
+    "salary": 72025
+  },
+  {
+    "fullName": "Hudson Ha",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 59,
+    "hireDate": "2004-02-06",
+    "salary": 67947
+  },
+  {
+    "fullName": "Hannah Brown",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 42,
+    "hireDate": "2020-07-12",
+    "salary": 79764
+  },
+  {
+    "fullName": "Hadley Le",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 33,
+    "hireDate": "2015-03-18",
+    "salary": 60690
+  },
+  {
+    "fullName": "Jaxson Shah",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 29,
+    "hireDate": "2018-08-25",
+    "salary": 44520
+  },
+  {
+    "fullName": "Christopher Delgado",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 33,
+    "hireDate": "2022-06-24",
+    "salary": 84317
+  },
+  {
+    "fullName": "Hannah Ng",
+    "jobTitle": "Director",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 36,
+    "hireDate": "2015-05-14",
+    "salary": 151055
+  },
+  {
+    "fullName": "Austin Ngo",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2020-03-27",
+    "salary": 62492
+  },
+  {
+    "fullName": "Gianna Han",
+    "jobTitle": "HRIS Analyst",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 51,
+    "hireDate": "2011-02-27",
+    "salary": 72589
+  },
+  {
+    "fullName": "Isaac Choi",
+    "jobTitle": "Operations Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 27,
+    "hireDate": "2021-01-21",
+    "salary": 82286
+  },
+  {
+    "fullName": "Madeline Smith",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 55,
+    "hireDate": "2011-11-23",
+    "salary": 66660
+  },
+  {
+    "fullName": "Ellie Fernandez",
+    "jobTitle": "Quality Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 62,
+    "hireDate": "2009-08-18",
+    "salary": 86805
+  },
+  {
+    "fullName": "Lyla Lai",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 46,
+    "hireDate": "2004-08-11",
+    "salary": 125878
+  },
+  {
+    "fullName": "Emily Moore",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 47,
+    "hireDate": "2009-11-08",
+    "salary": 50290
+  },
+  {
+    "fullName": "Aubrey Moreno",
+    "jobTitle": "Computer Systems Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 57,
+    "hireDate": "2000-06-30",
+    "salary": 97083
+  },
+  {
+    "fullName": "Nova Xiong",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 49,
+    "hireDate": "2019-04-10",
+    "salary": 93306
+  },
+  {
+    "fullName": "Eva Lam",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 42,
+    "hireDate": "2022-03-08",
+    "salary": 73404
+  },
+  {
+    "fullName": "Caroline Chau",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "2022-12-07",
+    "salary": 91179
+  },
+  {
+    "fullName": "Sofia Chen",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 46,
+    "hireDate": "2006-08-27",
+    "salary": 108003
+  },
+  {
+    "fullName": "Christopher Sharma",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2004-04-16",
+    "salary": 81384
+  },
+  {
+    "fullName": "Lucas Grant",
+    "jobTitle": "Sr- Business Partner",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 53,
+    "hireDate": "2012-03-28",
+    "salary": 97218
+  },
+  {
+    "fullName": "Delilah Washington",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 46,
+    "hireDate": "2006-09-17",
+    "salary": 42944
+  },
+  {
+    "fullName": "Eloise Molina",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 48,
+    "hireDate": "2015-01-18",
+    "salary": 43980
+  },
+  {
+    "fullName": "Clara Desai",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 33,
+    "hireDate": "2014-11-20",
+    "salary": 109533
+  },
+  {
+    "fullName": "Audrey Campbell",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 56,
+    "hireDate": "2008-07-30",
+    "salary": 226952
+  },
+  {
+    "fullName": "Delilah Alvarez",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 59,
+    "hireDate": "2007-11-27",
+    "salary": 71580
+  },
+  {
+    "fullName": "Luke Luna",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 55,
+    "hireDate": "2012-11-16",
+    "salary": 66172
+  },
+  {
+    "fullName": "Elizabeth Tan",
+    "jobTitle": "Vice President",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 46,
+    "hireDate": "2018-07-27",
+    "salary": 237489
+  },
+  {
+    "fullName": "Sophia Wang",
+    "jobTitle": "Analyst",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 50,
+    "hireDate": "2000-05-20",
+    "salary": 48733
+  },
+  {
+    "fullName": "Nova Park",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 29,
+    "hireDate": "2017-07-23",
+    "salary": 48563
+  },
+  {
+    "fullName": "Josiah Khan",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 57,
+    "hireDate": "2004-10-26",
+    "salary": 86592
+  },
+  {
+    "fullName": "Madison Gray",
+    "jobTitle": "Vice President",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 39,
+    "hireDate": "2011-08-29",
+    "salary": 189823
+  },
+  {
+    "fullName": "Luca Washington",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 40,
+    "hireDate": "2022-06-27",
+    "salary": 65075
+  },
+  {
+    "fullName": "Isaac Cruz",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 33,
+    "hireDate": "2018-05-09",
+    "salary": 187917
+  },
+  {
+    "fullName": "Ellie Ortega",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 49,
+    "hireDate": "2020-10-20",
+    "salary": 42242
+  },
+  {
+    "fullName": "Ian Huang",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 54,
+    "hireDate": "1998-02-07",
+    "salary": 53931
+  },
+  {
+    "fullName": "Jayden Ahmed",
+    "jobTitle": "Sr- Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 51,
+    "hireDate": "2006-03-28",
+    "salary": 140668
+  },
+  {
+    "fullName": "Violet Simmons",
+    "jobTitle": "Analyst",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 33,
+    "hireDate": "2017-10-23",
+    "salary": 53948
+  },
+  {
+    "fullName": "William Roberts",
+    "jobTitle": "Director",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 34,
+    "hireDate": "2017-04-12",
+    "salary": 174257
+  },
+  {
+    "fullName": "Penelope Sandoval",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 28,
+    "hireDate": "2019-12-18",
+    "salary": 132209
+  },
+  {
+    "fullName": "Emilia Ortiz",
+    "jobTitle": "Vice President",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 34,
+    "hireDate": "2017-07-16",
+    "salary": 208883
+  },
+  {
+    "fullName": "Layla Gutierrez",
+    "jobTitle": "Computer Systems Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 39,
+    "hireDate": "2022-05-05",
+    "salary": 65957
+  },
+  {
+    "fullName": "Dylan Vu",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 63,
+    "hireDate": "2004-07-22",
+    "salary": 106481
+  },
+  {
+    "fullName": "Peyton Wong",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 35,
+    "hireDate": "2020-08-05",
+    "salary": 218127
+  },
+  {
+    "fullName": "Santiago f Banks",
+    "jobTitle": "Sr- Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 44,
+    "hireDate": "2019-08-16",
+    "salary": 151481
+  },
+  {
+    "fullName": "Caroline Wong",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 37,
+    "hireDate": "2017-03-08",
+    "salary": 40508
+  },
+  {
+    "fullName": "Quinn Ho",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2002-07-20",
+    "salary": 200481
+  },
+  {
+    "fullName": "Caroline Nunez",
+    "jobTitle": "Vice President",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 65,
+    "hireDate": "2002-12-20",
+    "salary": 224872
+  },
+  {
+    "fullName": "Carson Brown",
+    "jobTitle": "Sr- Manager",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 65,
+    "hireDate": "2007-11-05",
+    "salary": 149474
+  },
+  {
+    "fullName": "Olivia Maldonado",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 63,
+    "hireDate": "2002-02-18",
+    "salary": 86820
+  },
+  {
+    "fullName": "Emilia Chung",
+    "jobTitle": "Director",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "1994-11-08",
+    "salary": 184078
+  },
+  {
+    "fullName": "Leilani Shin",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 58,
+    "hireDate": "2013-12-18",
+    "salary": 55174
+  },
+  {
+    "fullName": "Abigail Zhu",
+    "jobTitle": "Director",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 31,
+    "hireDate": "2022-01-17",
+    "salary": 152474
+  },
+  {
+    "fullName": "Autumn Xiong",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 28,
+    "hireDate": "2020-02-13",
+    "salary": 75172
+  },
+  {
+    "fullName": "Hailey Cruz",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 50,
+    "hireDate": "2008-08-10",
+    "salary": 56002
+  },
+  {
+    "fullName": "Piper Cruz",
+    "jobTitle": "Director",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 61,
+    "hireDate": "2013-04-13",
+    "salary": 195636
+  },
+  {
+    "fullName": "Jaxson Jackson",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 53,
+    "hireDate": "1997-03-01",
+    "salary": 63165
+  },
+  {
+    "fullName": "Serenity Mehta",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 51,
+    "hireDate": "1998-07-21",
+    "salary": 57277
+  },
+  {
+    "fullName": "Peyton Gomez",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 56,
+    "hireDate": "2020-01-14",
+    "salary": 42950
+  },
+  {
+    "fullName": "Ethan Vargas",
+    "jobTitle": "Director",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 38,
+    "hireDate": "2018-10-09",
+    "salary": 168410
+  },
+  {
+    "fullName": "Serenity Morris",
+    "jobTitle": "Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 41,
+    "hireDate": "2008-04-12",
+    "salary": 114588
+  },
+  {
+    "fullName": "Vivian Chan",
+    "jobTitle": "Sr- Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 61,
+    "hireDate": "1997-05-12",
+    "salary": 72546
+  },
+  {
+    "fullName": "Lincoln Singh",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 33,
+    "hireDate": "2021-01-09",
+    "salary": 55397
+  },
+  {
+    "fullName": "Ayla Lim",
+    "jobTitle": "Director",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 41,
+    "hireDate": "2021-09-05",
+    "salary": 192266
+  },
+  {
+    "fullName": "Leilani Hong",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 36,
+    "hireDate": "2013-12-20",
+    "salary": 79876
+  },
+  {
+    "fullName": "Victoria Doan",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 42,
+    "hireDate": "2018-03-06",
+    "salary": 112593
+  },
+  {
+    "fullName": "Naomi Wright",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 36,
+    "hireDate": "2016-11-03",
+    "salary": 99249
+  },
+  {
+    "fullName": "Scarlett Howard",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 55,
+    "hireDate": "2012-08-12",
+    "salary": 117421
+  },
+  {
+    "fullName": "Victoria Vo",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 44,
+    "hireDate": "2017-12-18",
+    "salary": 82241
+  },
+  {
+    "fullName": "Oliver Fernandez",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 31,
+    "hireDate": "2022-05-15",
+    "salary": 125664
+  },
+  {
+    "fullName": "Luca Jiang",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 47,
+    "hireDate": "2013-09-08",
+    "salary": 57386
+  },
+  {
+    "fullName": "Charlotte Owens",
+    "jobTitle": "Vice President",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 59,
+    "hireDate": "2001-05-11",
+    "salary": 196740
+  },
+  {
+    "fullName": "Stella Tan",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 48,
+    "hireDate": "2009-08-22",
+    "salary": 168202
+  },
+  {
+    "fullName": "Ellie Yoon",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 44,
+    "hireDate": "2006-07-11",
+    "salary": 242004
+  },
+  {
+    "fullName": "Ella Do",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 52,
+    "hireDate": "1998-02-28",
+    "salary": 57433
+  },
+  {
+    "fullName": "Lucas Cruz",
+    "jobTitle": "Sr- Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 54,
+    "hireDate": "2009-07-11",
+    "salary": 74656
+  },
+  {
+    "fullName": "Sarah Mehta",
+    "jobTitle": "HRIS Analyst",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 31,
+    "hireDate": "2016-08-23",
+    "salary": 62848
+  },
+  {
+    "fullName": "Anthony Phan",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 39,
+    "hireDate": "2011-04-11",
+    "salary": 92523
+  },
+  {
+    "fullName": "David Chu",
+    "jobTitle": "Sr- Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 40,
+    "hireDate": "2012-12-16",
+    "salary": 142844
+  },
+  {
+    "fullName": "Sebastian Sanders",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 39,
+    "hireDate": "2009-01-23",
+    "salary": 100718
+  },
+  {
+    "fullName": "Jayden Phillips",
+    "jobTitle": "Director",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 25,
+    "hireDate": "2022-10-13",
+    "salary": 154186
+  },
+  {
+    "fullName": "Caleb Chan",
+    "jobTitle": "Operations Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 48,
+    "hireDate": "2003-06-24",
+    "salary": 107586
+  },
+  {
+    "fullName": "Ariana Santiago",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 54,
+    "hireDate": "2003-10-28",
+    "salary": 88906
+  },
+  {
+    "fullName": "Quinn Owens",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 40,
+    "hireDate": "2018-05-09",
+    "salary": 74329
+  },
+  {
+    "fullName": "Eli James",
+    "jobTitle": "Network Engineer",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 32,
+    "hireDate": "2021-04-15",
+    "salary": 86523
+  },
+  {
+    "fullName": "Ezra Aguilar",
+    "jobTitle": "Vice President",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 60,
+    "hireDate": "2014-11-05",
+    "salary": 239868
+  },
+  {
+    "fullName": "Anna Castro",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 29,
+    "hireDate": "2018-05-21",
+    "salary": 65010
+  },
+  {
+    "fullName": "Liliana Lewis",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 25,
+    "hireDate": "2021-02-23",
+    "salary": 82140
+  },
+  {
+    "fullName": "Maverick Alvarado",
+    "jobTitle": "Solutions Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 34,
+    "hireDate": "2016-06-11",
+    "salary": 75511
+  },
+  {
+    "fullName": "Nora Butler",
+    "jobTitle": "Vice President",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 26,
+    "hireDate": "2022-05-06",
+    "salary": 188880
+  },
+  {
+    "fullName": "Landon Rodriguez",
+    "jobTitle": "Sr- Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 39,
+    "hireDate": "2017-11-19",
+    "salary": 87155
+  },
+  {
+    "fullName": "Grace Harris",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 34,
+    "hireDate": "2018-10-28",
+    "salary": 75518
+  },
+  {
+    "fullName": "Jeremiah Medina",
+    "jobTitle": "Sr- Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 54,
+    "hireDate": "1997-09-28",
+    "salary": 129311
+  },
+  {
+    "fullName": "Charles Bryant",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 27,
+    "hireDate": "2022-07-12",
+    "salary": 56919
+  },
+  {
+    "fullName": "Elizabeth Dixon",
+    "jobTitle": "Sr- Manager",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 26,
+    "hireDate": "2020-11-15",
+    "salary": 153832
+  },
+  {
+    "fullName": "Riley Phillips",
+    "jobTitle": "Vice President",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 26,
+    "hireDate": "2022-08-05",
+    "salary": 211121
+  },
+  {
+    "fullName": "Gianna Cruz",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 29,
+    "hireDate": "2019-07-02",
+    "salary": 106456
+  },
+  {
+    "fullName": "Lincoln Cruz",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 64,
+    "hireDate": "1997-07-15",
+    "salary": 72772
+  },
+  {
+    "fullName": "Ezekiel Contreras",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 45,
+    "hireDate": "2001-08-10",
+    "salary": 143146
+  },
+  {
+    "fullName": "Amelia Do",
+    "jobTitle": "Analyst II",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2018-12-24",
+    "salary": 74776
+  },
+  {
+    "fullName": "Anthony Perez",
+    "jobTitle": "Sr- Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 51,
+    "hireDate": "2021-09-13",
+    "salary": 92305
+  },
+  {
+    "fullName": "Elias Maldonado",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 56,
+    "hireDate": "2005-04-01",
+    "salary": 94724
+  },
+  {
+    "fullName": "Liam Luong",
+    "jobTitle": "Technical Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 58,
+    "hireDate": "1995-11-13",
+    "salary": 88019
+  },
+  {
+    "fullName": "Jordan Ford",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 43,
+    "hireDate": "2016-09-19",
+    "salary": 108000
+  },
+  {
+    "fullName": "Mateo Chung",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 52,
+    "hireDate": "2018-07-27",
+    "salary": 81438
+  },
+  {
+    "fullName": "Jameson Vang",
+    "jobTitle": "Computer Systems Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 41,
+    "hireDate": "2018-05-23",
+    "salary": 95669
+  },
+  {
+    "fullName": "Samuel Thomas",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 43,
+    "hireDate": "2016-02-15",
+    "salary": 180385
+  },
+  {
+    "fullName": "Gabriel Rodriguez",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 36,
+    "hireDate": "2016-01-30",
+    "salary": 45184
+  },
+  {
+    "fullName": "Wyatt Robinson",
+    "jobTitle": "Development Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 55,
+    "hireDate": "2007-08-08",
+    "salary": 70451
+  },
+  {
+    "fullName": "Anna Huynh",
+    "jobTitle": "Technical Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 39,
+    "hireDate": "2009-04-05",
+    "salary": 63259
+  },
+  {
+    "fullName": "Lucy Simmons",
+    "jobTitle": "Analyst II",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 56,
+    "hireDate": "2001-03-01",
+    "salary": 73778
+  },
+  {
+    "fullName": "Austin Ng",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2009-03-03",
+    "salary": 126697
+  },
+  {
+    "fullName": "Madeline Cruz",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 63,
+    "hireDate": "2008-05-19",
+    "salary": 75396
+  },
+  {
+    "fullName": "Layla Munoz",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 39,
+    "hireDate": "2014-09-24",
+    "salary": 182595
+  },
+  {
+    "fullName": "Alexander Tang",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2015-01-29",
+    "salary": 45424
+  },
+  {
+    "fullName": "Carson Chen",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2012-12-03",
+    "salary": 70661
+  },
+  {
+    "fullName": "Kai Duong",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 41,
+    "hireDate": "2018-11-16",
+    "salary": 57166
+  },
+  {
+    "fullName": "Ayla Cooper",
+    "jobTitle": "Operations Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 56,
+    "hireDate": "2017-02-15",
+    "salary": 101637
+  },
+  {
+    "fullName": "Eliza Espinoza",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 30,
+    "hireDate": "2017-12-28",
+    "salary": 103646
+  },
+  {
+    "fullName": "Axel King",
+    "jobTitle": "Automation Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 46,
+    "hireDate": "2010-02-21",
+    "salary": 100757
+  },
+  {
+    "fullName": "Alexander Carter",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 47,
+    "hireDate": "2008-10-04",
+    "salary": 60963
+  },
+  {
+    "fullName": "Robert Rogers",
+    "jobTitle": "Vice President",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 53,
+    "hireDate": "2011-08-26",
+    "salary": 258734
+  },
+  {
+    "fullName": "Anthony Gupta",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 38,
+    "hireDate": "2021-09-23",
+    "salary": 70612
+  },
+  {
+    "fullName": "Jackson Gupta",
+    "jobTitle": "Service Desk Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 65,
+    "hireDate": "1993-06-27",
+    "salary": 77065
+  },
+  {
+    "fullName": "Sophia Rodriguez",
+    "jobTitle": "Development Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 58,
+    "hireDate": "2007-10-31",
+    "salary": 96256
+  },
+  {
+    "fullName": "Cora Patel",
+    "jobTitle": "Analyst II",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 36,
+    "hireDate": "2011-05-13",
+    "salary": 65794
+  },
+  {
+    "fullName": "Piper Hsu",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2015-08-23",
+    "salary": 48491
+  },
+  {
+    "fullName": "Hunter Marquez",
+    "jobTitle": "Operations Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 34,
+    "hireDate": "2019-08-07",
+    "salary": 83220
+  },
+  {
+    "fullName": "Addison Li",
+    "jobTitle": "HRIS Analyst",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 37,
+    "hireDate": "2010-03-04",
+    "salary": 61680
+  },
+  {
+    "fullName": "Carson Hoang",
+    "jobTitle": "Sr- Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2021-10-09",
+    "salary": 72482
+  },
+  {
+    "fullName": "Julian Fernandez",
+    "jobTitle": "Development Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 27,
+    "hireDate": "2022-02-07",
+    "salary": 81713
+  },
+  {
+    "fullName": "Caleb Rojas",
+    "jobTitle": "Analyst II",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 38,
+    "hireDate": "2021-12-04",
+    "salary": 68281
+  },
+  {
+    "fullName": "Elizabeth Griffin",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 60,
+    "hireDate": "1993-09-10",
+    "salary": 63979
+  },
+  {
+    "fullName": "Nolan Han",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 29,
+    "hireDate": "2017-11-19",
+    "salary": 53090
+  },
+  {
+    "fullName": "Cameron Romero",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 49,
+    "hireDate": "1997-09-15",
+    "salary": 108325
+  },
+  {
+    "fullName": "Angel Patterson",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 45,
+    "hireDate": "2018-01-07",
+    "salary": 98289
+  },
+  {
+    "fullName": "Ryan Foster",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 44,
+    "hireDate": "2004-02-22",
+    "salary": 41275
+  },
+  {
+    "fullName": "Leonardo Patterson",
+    "jobTitle": "Sr- Analyst",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 46,
+    "hireDate": "2012-02-06",
+    "salary": 93642
+  },
+  {
+    "fullName": "William Song",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 36,
+    "hireDate": "2010-10-25",
+    "salary": 162957
+  },
+  {
+    "fullName": "Axel Aguilar",
+    "jobTitle": "Sr- Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 45,
+    "hireDate": "2022-04-10",
+    "salary": 96029
+  },
+  {
+    "fullName": "Liam Valdez",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 55,
+    "hireDate": "1999-03-01",
+    "salary": 227148
+  },
+  {
+    "fullName": "Hudson Washington",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 43,
+    "hireDate": "2008-09-17",
+    "salary": 76819
+  },
+  {
+    "fullName": "Owen Han",
+    "jobTitle": "Analyst II",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 30,
+    "hireDate": "2022-09-01",
+    "salary": 66892
+  },
+  {
+    "fullName": "Harper Washington",
+    "jobTitle": "Vice President",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 48,
+    "hireDate": "1999-06-24",
+    "salary": 256084
+  },
+  {
+    "fullName": "Brooklyn Parker",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 60,
+    "hireDate": "2005-03-19",
+    "salary": 85669
+  },
+  {
+    "fullName": "Hudson Oh",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 30,
+    "hireDate": "2021-09-09",
+    "salary": 44454
+  },
+  {
+    "fullName": "Maverick Howard",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 25,
+    "hireDate": "2021-04-13",
+    "salary": 54353
+  },
+  {
+    "fullName": "Alexander Dominguez",
+    "jobTitle": "Analyst II",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 58,
+    "hireDate": "2014-11-27",
+    "salary": 58867
+  },
+  {
+    "fullName": "Jack Garcia",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 37,
+    "hireDate": "2022-03-21",
+    "salary": 123918
+  },
+  {
+    "fullName": "Aiden Hu",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 44,
+    "hireDate": "2010-05-07",
+    "salary": 56680
+  },
+  {
+    "fullName": "Cora Espinoza",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 53,
+    "hireDate": "2019-10-09",
+    "salary": 55206
+  },
+  {
+    "fullName": "Naomi Moua",
+    "jobTitle": "Director",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 58,
+    "hireDate": "2010-01-13",
+    "salary": 150633
+  },
+  {
+    "fullName": "Liam Baker",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 65,
+    "hireDate": "2020-01-26",
+    "salary": 97379
+  },
+  {
+    "fullName": "Christian Liu",
+    "jobTitle": "Director",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 57,
+    "hireDate": "2000-03-29",
+    "salary": 178447
+  },
+  {
+    "fullName": "Aaron Munoz",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 31,
+    "hireDate": "2021-06-13",
+    "salary": 60827
+  },
+  {
+    "fullName": "Levi Kang",
+    "jobTitle": "Engineering Manager",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2019-04-28",
+    "salary": 96951
+  },
+  {
+    "fullName": "Isaac Foster",
+    "jobTitle": "Manager",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 48,
+    "hireDate": "2001-01-06",
+    "salary": 103051
+  },
+  {
+    "fullName": "Samantha Zhu",
+    "jobTitle": "Vice President",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "2001-10-27",
+    "salary": 256592
+  },
+  {
+    "fullName": "Vivian Watson",
+    "jobTitle": "Development Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 52,
+    "hireDate": "2017-07-07",
+    "salary": 79323
+  },
+  {
+    "fullName": "Emery Hernandez",
+    "jobTitle": "Development Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 27,
+    "hireDate": "2021-07-12",
+    "salary": 75583
+  },
+  {
+    "fullName": "Camila Baker",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 36,
+    "hireDate": "2012-09-08",
+    "salary": 73646
+  },
+  {
+    "fullName": "David Bryant",
+    "jobTitle": "Solutions Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 36,
+    "hireDate": "2022-08-07",
+    "salary": 64937
+  },
+  {
+    "fullName": "Miles Perez",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 42,
+    "hireDate": "2019-06-11",
+    "salary": 112146
+  },
+  {
+    "fullName": "Elijah Hill",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 48,
+    "hireDate": "2018-12-16",
+    "salary": 83332
+  },
+  {
+    "fullName": "Sofia Shin",
+    "jobTitle": "Computer Systems Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 42,
+    "hireDate": "2008-04-11",
+    "salary": 66248
+  },
+  {
+    "fullName": "Ezekiel Lee",
+    "jobTitle": "Sr- Manager",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 37,
+    "hireDate": "2019-08-22",
+    "salary": 127238
+  },
+  {
+    "fullName": "Nevaeh Truong",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "2012-05-23",
+    "salary": 87857
+  },
+  {
+    "fullName": "Leah Ali",
+    "jobTitle": "HRIS Analyst",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 62,
+    "hireDate": "1999-08-20",
+    "salary": 51454
+  },
+  {
+    "fullName": "Emma Soto",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 29,
+    "hireDate": "2020-09-13",
+    "salary": 128066
+  },
+  {
+    "fullName": "Lydia Marquez",
+    "jobTitle": "Sr- Manager",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 29,
+    "hireDate": "2018-09-28",
+    "salary": 130790
+  },
+  {
+    "fullName": "Cora Munoz",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 45,
+    "hireDate": "2004-05-17",
+    "salary": 233342
+  },
+  {
+    "fullName": "Hudson Ross",
+    "jobTitle": "Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 57,
+    "hireDate": "2009-10-04",
+    "salary": 54155
+  },
+  {
+    "fullName": "Aiden Cheng",
+    "jobTitle": "Vice President",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 31,
+    "hireDate": "2019-09-06",
+    "salary": 189403
+  },
+  {
+    "fullName": "Willow Vang",
+    "jobTitle": "Sr- Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 31,
+    "hireDate": "2018-05-18",
+    "salary": 78732
+  },
+  {
+    "fullName": "Jonathan Young",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 47,
+    "hireDate": "2015-04-28",
+    "salary": 55401
+  },
+  {
+    "fullName": "Isaac Rojas",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 60,
+    "hireDate": "2006-07-12",
+    "salary": 82343
+  },
+  {
+    "fullName": "Dylan Guzman",
+    "jobTitle": "Quality Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 42,
+    "hireDate": "2017-03-16",
+    "salary": 66226
+  },
+  {
+    "fullName": "Sarah Shin",
+    "jobTitle": "Vice President",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 26,
+    "hireDate": "2021-12-03",
+    "salary": 193435
+  },
+  {
+    "fullName": "Michael Johnson",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 57,
+    "hireDate": "2011-04-18",
+    "salary": 114241
+  },
+  {
+    "fullName": "Riley Vega",
+    "jobTitle": "Director",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 25,
+    "hireDate": "2022-11-11",
+    "salary": 177264
+  },
+  {
+    "fullName": "Benjamin Ali",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 53,
+    "hireDate": "2016-04-12",
+    "salary": 58010
+  },
+  {
+    "fullName": "Ezekiel Cooper",
+    "jobTitle": "Director",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 43,
+    "hireDate": "2003-03-15",
+    "salary": 154284
+  },
+  {
+    "fullName": "Lyla Walker",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 49,
+    "hireDate": "2002-02-18",
+    "salary": 54633
+  },
+  {
+    "fullName": "Aria Cheng",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 61,
+    "hireDate": "1996-08-26",
+    "salary": 42829
+  },
+  {
+    "fullName": "Christopher Ramirez",
+    "jobTitle": "Engineering Manager",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 41,
+    "hireDate": "2010-03-15",
+    "salary": 118973
+  },
+  {
+    "fullName": "Emily Roberts",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 56,
+    "hireDate": "2018-12-29",
+    "salary": 61251
+  },
+  {
+    "fullName": "Nathan Parker",
+    "jobTitle": "Engineering Manager",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 49,
+    "hireDate": "2002-04-24",
+    "salary": 108636
+  },
+  {
+    "fullName": "Nora Her",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2014-04-24",
+    "salary": 68780
+  },
+  {
+    "fullName": "Mia Brown",
+    "jobTitle": "Analyst II",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 30,
+    "hireDate": "2016-08-10",
+    "salary": 60261
+  },
+  {
+    "fullName": "Hunter Hu",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 64,
+    "hireDate": "2003-07-13",
+    "salary": 100951
+  },
+  {
+    "fullName": "Luke Acosta",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 57,
+    "hireDate": "2022-07-20",
+    "salary": 93872
+  },
+  {
+    "fullName": "Sophia Griffin",
+    "jobTitle": "Vice President",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 50,
+    "hireDate": "2018-06-29",
+    "salary": 181570
+  },
+  {
+    "fullName": "Anthony Chu",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 61,
+    "hireDate": "2003-09-30",
+    "salary": 101517
+  },
+  {
+    "fullName": "Landon Ha",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2006-01-30",
+    "salary": 100822
+  },
+  {
+    "fullName": "Layla Kang",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 26,
+    "hireDate": "2022-03-02",
+    "salary": 128965
+  },
+  {
+    "fullName": "Cora Xu",
+    "jobTitle": "Network Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 54,
+    "hireDate": "2011-11-17",
+    "salary": 60513
+  },
+  {
+    "fullName": "Rylee Campos",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 49,
+    "hireDate": "2005-02-09",
+    "salary": 107461
+  },
+  {
+    "fullName": "Amelia Foster",
+    "jobTitle": "Analyst II",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 32,
+    "hireDate": "2018-02-24",
+    "salary": 66294
+  },
+  {
+    "fullName": "Hadley Rios",
+    "jobTitle": "Sr- Manager",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 62,
+    "hireDate": "2009-01-11",
+    "salary": 157500
+  },
+  {
+    "fullName": "Luna Chang",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 64,
+    "hireDate": "2022-10-20",
+    "salary": 43271
+  },
+  {
+    "fullName": "Mia Navarro",
+    "jobTitle": "Technical Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 52,
+    "hireDate": "2011-06-19",
+    "salary": 91518
+  },
+  {
+    "fullName": "Nova Rios",
+    "jobTitle": "Sr- Manager",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 42,
+    "hireDate": "2019-04-15",
+    "salary": 130874
+  },
+  {
+    "fullName": "Theodore Truong",
+    "jobTitle": "HRIS Analyst",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2017-05-23",
+    "salary": 66324
+  },
+  {
+    "fullName": "Asher Ly",
+    "jobTitle": "Analyst II",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 65,
+    "hireDate": "1998-01-29",
+    "salary": 63853
+  },
+  {
+    "fullName": "Madeline Doan",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 46,
+    "hireDate": "2021-01-10",
+    "salary": 104692
+  },
+  {
+    "fullName": "Scarlett Rodriguez",
+    "jobTitle": "Solutions Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 64,
+    "hireDate": "2022-11-03",
+    "salary": 71864
+  },
+  {
+    "fullName": "Zoey Lu",
+    "jobTitle": "Vice President",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2007-10-31",
+    "salary": 216269
+  },
+  {
+    "fullName": "Mila Cheung",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2021-12-17",
+    "salary": 73135
+  },
+  {
+    "fullName": "Lucy Mai",
+    "jobTitle": "Director",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 56,
+    "hireDate": "2022-06-27",
+    "salary": 197579
+  },
+  {
+    "fullName": "Benjamin Luu",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 46,
+    "hireDate": "2011-12-15",
+    "salary": 59733
+  },
+  {
+    "fullName": "Mia Navarro",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 26,
+    "hireDate": "2020-05-22",
+    "salary": 187792
+  },
+  {
+    "fullName": "Maya Watson",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 59,
+    "hireDate": "2017-01-07",
+    "salary": 108612
+  },
+  {
+    "fullName": "Jack Adams",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 50,
+    "hireDate": "2018-07-18",
+    "salary": 80350
+  },
+  {
+    "fullName": "Gabriella Jordan",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 32,
+    "hireDate": "2019-09-21",
+    "salary": 61243
+  },
+  {
+    "fullName": "Jonathan Torres",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 56,
+    "hireDate": "2002-04-12",
+    "salary": 48896
+  },
+  {
+    "fullName": "Samuel Xu",
+    "jobTitle": "Quality Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2019-09-20",
+    "salary": 82887
+  },
+  {
+    "fullName": "Ezekiel Lai",
+    "jobTitle": "Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2005-11-26",
+    "salary": 54742
+  },
+  {
+    "fullName": "Levi Rahman",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2007-07-19",
+    "salary": 134544
+  },
+  {
+    "fullName": "Madison Phan",
+    "jobTitle": "Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2003-05-10",
+    "salary": 128115
+  },
+  {
+    "fullName": "Andrew Pham",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 38,
+    "hireDate": "2013-06-29",
+    "salary": 54713
+  },
+  {
+    "fullName": "Clara Ford",
+    "jobTitle": "Analyst II",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 46,
+    "hireDate": "2014-08-09",
+    "salary": 63987
+  },
+  {
+    "fullName": "Christopher Chau",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 26,
+    "hireDate": "2021-12-28",
+    "salary": 86288
+  },
+  {
+    "fullName": "Madeline Guerrero",
+    "jobTitle": "Quality Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 27,
+    "hireDate": "2020-08-16",
+    "salary": 61693
+  },
+  {
+    "fullName": "Harper Yee",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 48,
+    "hireDate": "2021-11-01",
+    "salary": 75624
+  },
+  {
+    "fullName": "Mia Thomas",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 57,
+    "hireDate": "2013-05-17",
+    "salary": 122979
+  },
+  {
+    "fullName": "Owen Nelson",
+    "jobTitle": "Engineering Manager",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 58,
+    "hireDate": "2003-01-06",
+    "salary": 91729
+  },
+  {
+    "fullName": "Aiden Evans",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 48,
+    "hireDate": "2010-05-16",
+    "salary": 117736
+  },
+  {
+    "fullName": "Josiah Lai",
+    "jobTitle": "Sr- Manager",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 54,
+    "hireDate": "1995-03-21",
+    "salary": 154658
+  },
+  {
+    "fullName": "Jameson Yee",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 29,
+    "hireDate": "2020-08-03",
+    "salary": 84397
+  },
+  {
+    "fullName": "Serenity Her",
+    "jobTitle": "Director",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 50,
+    "hireDate": "1997-08-22",
+    "salary": 159285
+  },
+  {
+    "fullName": "Ariana Turner",
+    "jobTitle": "Analyst II",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 49,
+    "hireDate": "2004-06-06",
+    "salary": 59854
+  },
+  {
+    "fullName": "Jacob Cooper",
+    "jobTitle": "Solutions Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 64,
+    "hireDate": "2018-05-18",
+    "salary": 87521
+  },
+  {
+    "fullName": "Christopher Dominguez",
+    "jobTitle": "Director",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 36,
+    "hireDate": "2015-09-17",
+    "salary": 179166
+  },
+  {
+    "fullName": "Nevaeh Lim",
+    "jobTitle": "Controls Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "1999-03-29",
+    "salary": 120092
+  },
+  {
+    "fullName": "Dominic Cheng",
+    "jobTitle": "Director",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 53,
+    "hireDate": "2015-06-19",
+    "salary": 168142
+  },
+  {
+    "fullName": "Serenity Rodriguez",
+    "jobTitle": "Director",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 54,
+    "hireDate": "1995-04-10",
+    "salary": 195662
+  },
+  {
+    "fullName": "Caleb Thompson",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 41,
+    "hireDate": "2012-12-17",
+    "salary": 49986
+  },
+  {
+    "fullName": "Luke Avila",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 27,
+    "hireDate": "2020-08-21",
+    "salary": 181587
+  },
+  {
+    "fullName": "Sadie Chin",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 51,
+    "hireDate": "2000-07-26",
+    "salary": 199736
+  },
+  {
+    "fullName": "Everett Le",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2014-01-07",
+    "salary": 250639
+  },
+  {
+    "fullName": "Carson Santos",
+    "jobTitle": "Sr- Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 34,
+    "hireDate": "2022-02-15",
+    "salary": 80655
+  },
+  {
+    "fullName": "Natalie Ho",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 33,
+    "hireDate": "2020-11-22",
+    "salary": 64327
+  },
+  {
+    "fullName": "Natalia Hall",
+    "jobTitle": "Analyst II",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 37,
+    "hireDate": "2018-11-08",
+    "salary": 72005
+  },
+  {
+    "fullName": "Zoey Ahmed",
+    "jobTitle": "Quality Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 56,
+    "hireDate": "2012-04-25",
+    "salary": 62497
+  },
+  {
+    "fullName": "Santiago f Turner",
+    "jobTitle": "Sr- Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 46,
+    "hireDate": "2003-02-24",
+    "salary": 74912
+  },
+  {
+    "fullName": "Jacob Alexander",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 45,
+    "hireDate": "2001-03-19",
+    "salary": 50393
+  },
+  {
+    "fullName": "Christopher Aguilar",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 32,
+    "hireDate": "2021-05-14",
+    "salary": 79670
+  },
+  {
+    "fullName": "Vivian Jackson",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 51,
+    "hireDate": "1999-02-23",
+    "salary": 148942
+  },
+  {
+    "fullName": "Leonardo Jenkins",
+    "jobTitle": "Service Desk Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 29,
+    "hireDate": "2018-04-09",
+    "salary": 98504
+  },
+  {
+    "fullName": "Oliver Hunter",
+    "jobTitle": "Service Desk Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 38,
+    "hireDate": "2015-12-20",
+    "salary": 70588
+  },
+  {
+    "fullName": "Ayla Brooks",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 58,
+    "hireDate": "2001-11-21",
+    "salary": 58336
+  },
+  {
+    "fullName": "Willow Chau",
+    "jobTitle": "Development Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2011-09-09",
+    "salary": 86001
+  },
+  {
+    "fullName": "Kai Shin",
+    "jobTitle": "Sr- Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 49,
+    "hireDate": "2015-09-13",
+    "salary": 91121
+  },
+  {
+    "fullName": "Liliana Zhao",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 50,
+    "hireDate": "2011-08-30",
+    "salary": 183308
+  },
+  {
+    "fullName": "Aiden Carter",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 32,
+    "hireDate": "2021-03-05",
+    "salary": 71674
+  },
+  {
+    "fullName": "Christopher Song",
+    "jobTitle": "Automation Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 29,
+    "hireDate": "2017-01-03",
+    "salary": 118639
+  },
+  {
+    "fullName": "Charles Luu",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 34,
+    "hireDate": "2018-11-10",
+    "salary": 71808
+  },
+  {
+    "fullName": "Kayden Dinh",
+    "jobTitle": "Sr- Manager",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 50,
+    "hireDate": "2019-05-26",
+    "salary": 156374
+  },
+  {
+    "fullName": "Valentina Zhang",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 27,
+    "hireDate": "2021-03-10",
+    "salary": 51133
+  },
+  {
+    "fullName": "Alexander Perez",
+    "jobTitle": "Quality Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 60,
+    "hireDate": "2008-06-25",
+    "salary": 86761
+  },
+  {
+    "fullName": "Everleigh Kumar",
+    "jobTitle": "Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 65,
+    "hireDate": "1994-07-05",
+    "salary": 125213
+  },
+  {
+    "fullName": "Santiago f Xiong",
+    "jobTitle": "Manager",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2008-09-26",
+    "salary": 120305
+  },
+  {
+    "fullName": "Elizabeth Powell",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 45,
+    "hireDate": "2013-09-17",
+    "salary": 138355
+  },
+  {
+    "fullName": "Lucas Yang",
+    "jobTitle": "Network Engineer",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 28,
+    "hireDate": "2021-07-04",
+    "salary": 70996
+  },
+  {
+    "fullName": "John Richardson",
+    "jobTitle": "Computer Systems Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 34,
+    "hireDate": "2014-12-29",
+    "salary": 77024
+  },
+  {
+    "fullName": "Miles Ross",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 31,
+    "hireDate": "2017-04-18",
+    "salary": 50022
+  },
+  {
+    "fullName": "Jonathan Santos",
+    "jobTitle": "Vice President",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 29,
+    "hireDate": "2017-01-06",
+    "salary": 204534
+  },
+  {
+    "fullName": "Joshua Maldonado",
+    "jobTitle": "Sr- Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 49,
+    "hireDate": "2005-12-22",
+    "salary": 75814
+  },
+  {
+    "fullName": "Santiago f Vo",
+    "jobTitle": "Director",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 47,
+    "hireDate": "2019-07-15",
+    "salary": 169487
+  },
+  {
+    "fullName": "Leilani Martin",
+    "jobTitle": "Sr- Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 56,
+    "hireDate": "2002-05-06",
+    "salary": 156435
+  },
+  {
+    "fullName": "Luca Xiong",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 52,
+    "hireDate": "2006-12-20",
+    "salary": 59845
+  },
+  {
+    "fullName": "Valentina Campos",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 37,
+    "hireDate": "2020-03-06",
+    "salary": 93656
+  },
+  {
+    "fullName": "Grayson Jenkins",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 55,
+    "hireDate": "1998-03-06",
+    "salary": 99035
+  },
+  {
+    "fullName": "Jeremiah Ross",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 27,
+    "hireDate": "2021-06-17",
+    "salary": 137997
+  },
+  {
+    "fullName": "Natalie Zheng",
+    "jobTitle": "Network Engineer",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 28,
+    "hireDate": "2019-06-21",
+    "salary": 61573
+  },
+  {
+    "fullName": "Jace Mehta",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "2015-05-06",
+    "salary": 41102
+  },
+  {
+    "fullName": "Hannah Doan",
+    "jobTitle": "Manager",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 44,
+    "hireDate": "2011-09-16",
+    "salary": 129866
+  },
+  {
+    "fullName": "Caroline Robinson",
+    "jobTitle": "Director",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 28,
+    "hireDate": "2020-01-22",
+    "salary": 161868
+  },
+  {
+    "fullName": "Naomi Ma",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 55,
+    "hireDate": "1995-05-16",
+    "salary": 67131
+  },
+  {
+    "fullName": "Adam Davis",
+    "jobTitle": "Quality Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 44,
+    "hireDate": "2019-10-15",
+    "salary": 71345
+  },
+  {
+    "fullName": "Ellie Ho",
+    "jobTitle": "Vice President",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 30,
+    "hireDate": "2019-10-09",
+    "salary": 246757
+  },
+  {
+    "fullName": "Mila Liang",
+    "jobTitle": "Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 63,
+    "hireDate": "2005-03-28",
+    "salary": 106880
+  },
+  {
+    "fullName": "Nova Doan",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 36,
+    "hireDate": "2018-08-28",
+    "salary": 98733
+  },
+  {
+    "fullName": "Colton Mejia",
+    "jobTitle": "Sr- Manager",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 28,
+    "hireDate": "2019-04-26",
+    "salary": 141675
+  },
+  {
+    "fullName": "Joseph Kim",
+    "jobTitle": "Analyst II",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 28,
+    "hireDate": "2018-06-23",
+    "salary": 53210
+  },
+  {
+    "fullName": "Audrey Campos",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 27,
+    "hireDate": "2021-09-02",
+    "salary": 107114
+  },
+  {
+    "fullName": "Vivian Brooks",
+    "jobTitle": "Business Partner",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 34,
+    "hireDate": "2022-09-12",
+    "salary": 57483
+  },
+  {
+    "fullName": "Mateo Vargas",
+    "jobTitle": "Network Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 53,
+    "hireDate": "1994-04-20",
+    "salary": 75226
+  },
+  {
+    "fullName": "David Foster",
+    "jobTitle": "Controls Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 50,
+    "hireDate": "2012-01-15",
+    "salary": 87727
+  },
+  {
+    "fullName": "Isaiah Ramos",
+    "jobTitle": "Solutions Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 51,
+    "hireDate": "2018-06-21",
+    "salary": 87897
+  },
+  {
+    "fullName": "Samantha Do",
+    "jobTitle": "IT Systems Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 27,
+    "hireDate": "2021-11-19",
+    "salary": 99612
+  },
+  {
+    "fullName": "Emery Fernandez",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 33,
+    "hireDate": "2019-03-27",
+    "salary": 56938
+  },
+  {
+    "fullName": "Santiago f Brooks",
+    "jobTitle": "Sr- Business Partner",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 46,
+    "hireDate": "2012-01-20",
+    "salary": 92247
+  },
+  {
+    "fullName": "Aubrey Lin",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 51,
+    "hireDate": "2005-10-17",
+    "salary": 193672
+  },
+  {
+    "fullName": "Jace Hsu",
+    "jobTitle": "Systems Analyst",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 31,
+    "hireDate": "2018-10-06",
+    "salary": 46098
+  },
+  {
+    "fullName": "Nicholas Sanders",
+    "jobTitle": "Vice President",
+    "department": "Sales",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 45,
+    "hireDate": "2014-11-23",
+    "salary": 239980
+  },
+  {
+    "fullName": "Joshua Sun",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 38,
+    "hireDate": "2011-07-13",
+    "salary": 121546
+  },
+  {
+    "fullName": "Riley Ayala",
+    "jobTitle": "Manager",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 42,
+    "hireDate": "2010-02-20",
+    "salary": 128714
+  },
+  {
+    "fullName": "Isaac Santos",
+    "jobTitle": "Development Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 43,
+    "hireDate": "2018-09-13",
+    "salary": 91537
+  },
+  {
+    "fullName": "Logan Brooks",
+    "jobTitle": "Director",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 28,
+    "hireDate": "2020-05-07",
+    "salary": 178300
+  },
+  {
+    "fullName": "Leilani Hu",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 57,
+    "hireDate": "2018-05-21",
+    "salary": 50260
+  },
+  {
+    "fullName": "Jace Cho",
+    "jobTitle": "Director",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 33,
+    "hireDate": "2016-08-06",
+    "salary": 161800
+  },
+  {
+    "fullName": "Jaxson Fong",
+    "jobTitle": "Sr- Manager",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 32,
+    "hireDate": "2020-10-09",
+    "salary": 157616
+  },
+  {
+    "fullName": "Wyatt Ly",
+    "jobTitle": "Quality Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 45,
+    "hireDate": "2008-12-19",
+    "salary": 82697
+  },
+  {
+    "fullName": "Mia Huang",
+    "jobTitle": "Sr- Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 33,
+    "hireDate": "2018-09-21",
+    "salary": 124404
+  },
+  {
+    "fullName": "Levi Her",
+    "jobTitle": "Sr- Manager",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2012-03-30",
+    "salary": 158750
+  },
+  {
+    "fullName": "Everleigh Phillips",
+    "jobTitle": "Analyst II",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 62,
+    "hireDate": "2015-11-08",
+    "salary": 69057
+  },
+  {
+    "fullName": "Natalie Acosta",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 36,
+    "hireDate": "2019-01-08",
+    "salary": 157976
+  },
+  {
+    "fullName": "Hadley Chavez",
+    "jobTitle": "Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 36,
+    "hireDate": "2020-06-28",
+    "salary": 54355
+  },
+  {
+    "fullName": "Hailey Liu",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 31,
+    "hireDate": "2022-07-09",
+    "salary": 72475
+  },
+  {
+    "fullName": "Nicholas Jiang",
+    "jobTitle": "Engineering Manager",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 62,
+    "hireDate": "2003-12-13",
+    "salary": 80132
+  },
+  {
+    "fullName": "Gabriel Xu",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 30,
+    "hireDate": "2018-10-13",
+    "salary": 52292
+  },
+  {
+    "fullName": "Sophia Collins",
+    "jobTitle": "Cloud Infrastructure Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 46,
+    "hireDate": "2022-01-08",
+    "salary": 69110
+  },
+  {
+    "fullName": "Evelyn Vasquez",
+    "jobTitle": "Technical Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 38,
+    "hireDate": "2013-02-24",
+    "salary": 68676
+  },
+  {
+    "fullName": "Paisley Baker",
+    "jobTitle": "Test Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 58,
+    "hireDate": "2002-12-23",
+    "salary": 86094
+  },
+  {
+    "fullName": "Eloise Griffin",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 27,
+    "hireDate": "2022-05-06",
+    "salary": 77607
+  },
+  {
+    "fullName": "Samuel Cruz",
+    "jobTitle": "Sr- Manager",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 61,
+    "hireDate": "1993-04-30",
+    "salary": 157672
+  },
+  {
+    "fullName": "Gabriel Cheung",
+    "jobTitle": "Analyst",
+    "department": "Finance",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 64,
+    "hireDate": "2016-11-29",
+    "salary": 43785
+  },
+  {
+    "fullName": "Kai Green",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 65,
+    "hireDate": "2015-06-15",
+    "salary": 75439
+  },
+  {
+    "fullName": "Julia Moore",
+    "jobTitle": "Sr- Manager",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 37,
+    "hireDate": "2021-11-18",
+    "salary": 139987
+  },
+  {
+    "fullName": "Roman Mendoza",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 54,
+    "hireDate": "1994-09-04",
+    "salary": 257489
+  },
+  {
+    "fullName": "Levi Rahman",
+    "jobTitle": "System Administrator",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 54,
+    "hireDate": "2009-01-30",
+    "salary": 91639
+  },
+  {
+    "fullName": "Sadie Pham",
+    "jobTitle": "Analyst II",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 26,
+    "hireDate": "2022-12-25",
+    "salary": 66563
+  },
+  {
+    "fullName": "Chloe Contreras",
+    "jobTitle": "Vice President",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 29,
+    "hireDate": "2021-02-10",
+    "salary": 235047
+  },
+  {
+    "fullName": "Owen Ford",
+    "jobTitle": "Vice President",
+    "department": "Human Resources",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 37,
+    "hireDate": "2015-02-10",
+    "salary": 214782
+  },
+  {
+    "fullName": "Audrey Powell",
+    "jobTitle": "Director",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 37,
+    "hireDate": "2011-05-01",
+    "salary": 180544
+  },
+  {
+    "fullName": "Greyson Munoz",
+    "jobTitle": "Sr- Manager",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 62,
+    "hireDate": "2000-06-23",
+    "salary": 158614
+  },
+  {
+    "fullName": "Isaiah Vang",
+    "jobTitle": "Quality Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 53,
+    "hireDate": "1998-11-30",
+    "salary": 63187
+  },
+  {
+    "fullName": "Lincoln Alvarado",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 65,
+    "hireDate": "2004-12-08",
+    "salary": 93857
+  },
+  {
+    "fullName": "Carter Sandoval",
+    "jobTitle": "Vice President",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 36,
+    "hireDate": "2021-03-11",
+    "salary": 253741
+  },
+  {
+    "fullName": "Julia Jimenez",
+    "jobTitle": "Sr- Analyst",
+    "department": "Marketing",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 46,
+    "hireDate": "2010-11-17",
+    "salary": 92833
+  },
+  {
+    "fullName": "Savannah Cortez",
+    "jobTitle": "Service Desk Analyst",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 55,
+    "hireDate": "2018-12-15",
+    "salary": 95400
+  },
+  {
+    "fullName": "Everly Brown",
+    "jobTitle": "Quality Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Black",
+    "age": 63,
+    "hireDate": "2013-10-04",
+    "salary": 88230
+  },
+  {
+    "fullName": "Charlotte Pham",
+    "jobTitle": "Field Engineer",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 54,
+    "hireDate": "2003-02-25",
+    "salary": 62179
+  },
+  {
+    "fullName": "Iris Bailey",
+    "jobTitle": "IT Coordinator",
+    "department": "IT",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 26,
+    "hireDate": "2020-02-18",
+    "salary": 42343
+  },
+  {
+    "fullName": "Logan Daniels",
+    "jobTitle": "Sr- Analyst",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 26,
+    "hireDate": "2022-05-07",
+    "salary": 70275
+  },
+  {
+    "fullName": "Autumn Molina",
+    "jobTitle": "Analyst II",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 34,
+    "hireDate": "2012-04-08",
+    "salary": 51448
+  },
+  {
+    "fullName": "Emma Mehta",
+    "jobTitle": "Vice President",
+    "department": "Engineering",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 48,
+    "hireDate": "2009-04-09",
+    "salary": 185363
+  },
+  {
+    "fullName": "Julian Joseph",
+    "jobTitle": "Enterprise Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 52,
+    "hireDate": "2018-09-20",
+    "salary": 60784
+  },
+  {
+    "fullName": "Eleanor Munoz",
+    "jobTitle": "Analyst",
+    "department": "Accounting",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 45,
+    "hireDate": "2004-04-07",
+    "salary": 45323
+  },
+  {
+    "fullName": "Caroline Sandoval",
+    "jobTitle": "Manager",
+    "department": "Finance",
+    "gender": "Female",
+    "ethnicity": "Latino",
+    "age": 51,
+    "hireDate": "2012-09-10",
+    "salary": 129727
+  },
+  {
+    "fullName": "Eliza Zhu",
+    "jobTitle": "Account Representative",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Asian",
+    "age": 43,
+    "hireDate": "2006-09-30",
+    "salary": 63229
+  },
+  {
+    "fullName": "Greyson Moore",
+    "jobTitle": "Director",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 54,
+    "hireDate": "2004-02-12",
+    "salary": 194221
+  },
+  {
+    "fullName": "Lyla Clark",
+    "jobTitle": "Sr- Analyst",
+    "department": "Sales",
+    "gender": "Female",
+    "ethnicity": "Caucasian",
+    "age": 54,
+    "hireDate": "2018-12-12",
+    "salary": 78020
+  },
+  {
+    "fullName": "Samuel Patterson",
+    "jobTitle": "Vice President",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Caucasian",
+    "age": 25,
+    "hireDate": "2022-10-07",
+    "salary": 197331
+  },
+  {
+    "fullName": "Robert Padilla",
+    "jobTitle": "Analyst II",
+    "department": "Accounting",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 65,
+    "hireDate": "1998-02-16",
+    "salary": 63346
+  },
+  {
+    "fullName": "Landon Munoz",
+    "jobTitle": "Controls Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Latino",
+    "age": 40,
+    "hireDate": "2014-07-11",
+    "salary": 105574
+  },
+  {
+    "fullName": "Josiah Yi",
+    "jobTitle": "Operations Engineer",
+    "department": "Engineering",
+    "gender": "Male",
+    "ethnicity": "Asian",
+    "age": 31,
+    "hireDate": "2015-04-12",
+    "salary": 101941
+  },
+  {
+    "fullName": "Owen Scott",
+    "jobTitle": "Solutions Architect",
+    "department": "IT",
+    "gender": "Male",
+    "ethnicity": "Black",
+    "age": 45,
+    "hireDate": "2005-07-17",
+    "salary": 74777
+  }
+]
