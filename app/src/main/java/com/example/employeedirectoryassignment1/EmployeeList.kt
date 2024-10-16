@@ -27,8 +27,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
-import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
+import androidx.navigation.NavHostController
 import com.example.employeedirectoryassignment1.roomDB.EmployeeDatabase
 import com.example.employeedirectoryassignment1.roomDB.EmployeeViewModel
 import com.example.employeedirectoryassignment1.roomDB.EmployeeViewModelFactory
@@ -49,9 +49,8 @@ fun EmployeeCard(name: String, onClick: () -> Unit) {
                 .fillMaxWidth(),
             verticalAlignment = Alignment.CenterVertically
         ) {
-            // Replace with an actual image or icon as needed
             Icon(
-                imageVector = Icons.Default.Person, // Use any icon of your choice
+                imageVector = Icons.Default.Person,
                 contentDescription = null,
                 modifier = Modifier.size(MaterialTheme.dimens.medium3)
             )
@@ -67,7 +66,7 @@ fun EmployeeCard(name: String, onClick: () -> Unit) {
 
 
 @Composable
-fun EmployeeList() {
+fun EmployeeList(navController: NavHostController) {
     val context = LocalContext.current
     val employeeDao = remember { EmployeeDatabase.getDatabase(context).employeeDao() }
     val viewModel: EmployeeViewModel = viewModel(factory = EmployeeViewModelFactory(employeeDao))
@@ -78,10 +77,7 @@ fun EmployeeList() {
             .fillMaxSize()
             .padding(MaterialTheme.dimens.small3)
     ) {
-
-        // LazyColumn to display the list of employees
         if (viewModel.employeeNamesList.isEmpty()) {
-            // Show a loading spinner or text
             CircularProgressIndicator()
         } else {
             Log.d("EmployeeList", "Employee names list is populated")
@@ -92,18 +88,16 @@ fun EmployeeList() {
             ) {
                 items(viewModel.employeeNamesList) { name ->
                     EmployeeCard(name = name) {
-                        // Handle navigation to employee detail screen
-                        // For example:
-                        // navController.navigate("employeeDetail/$name")
+                        navController.navigate("employeeDetailScreen/$name")
                     }
                 }
             }
         }
 
         Spacer(modifier = Modifier.height(MaterialTheme.dimens.small3))
-        // Logout Button
+
         Button(
-            onClick = {},
+            onClick = {navController.navigate("loginScreen")},
             modifier = Modifier
                 .fillMaxWidth()
                 .height(MaterialTheme.dimens.buttonHeight)

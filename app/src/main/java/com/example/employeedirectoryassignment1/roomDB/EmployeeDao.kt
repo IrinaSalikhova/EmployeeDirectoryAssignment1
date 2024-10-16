@@ -27,6 +27,8 @@ interface EmployeeDao {
     @Query("SELECT * FROM Employees WHERE id = :id")
     suspend fun getEmployeeById(id: String): Employee?
 
-    @Query("SELECT * FROM Employees WHERE fullName LIKE :query")
-    fun searchEmployeesByName(query: String): Flow<List<Employee>>
+    @Query("SELECT * FROM Employees WHERE fullName = :query LIMIT 1")
+    fun searchEmployeesByName(query: String): Flow<Employee?>
+
+
 }

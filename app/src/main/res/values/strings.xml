@@ -9,4 +9,15 @@
     <string name="forgot_password">Forgot your password?</string>
     <string name="to_reg">Don\'t have an account?</string>
     <string name="log_out">Log Out</string>
+    <string name="invalid_message">Invalid username or password</string>
+    <string name="invalid_email">Please enter valid email as username</string>
+    <string name="empty_login_message">Please enter your username</string>
+    <string name="empty_password_message">Please enter your password</string>
+    <string name="not_supported">Sorry, function is not yet supported</string>
+    <string name="sign_up">Sign up</string>
+    <string name="invalid_password">Password must be at least 8 characters long, contain at least one uppercase letter, one lowercase letter, one number and one special character</string>
+    <string name="success_register">Your are successfully registered. Now you can log in</string>
+    <string name="to_register">Please enter your details to register</string>
+    <string name="to_login">Go back to log in</string>
+    <string name="no_employee_details">No employee details…</string>
 </resources>

@@ -11,7 +11,11 @@ fun AppNavigation(startDestination: String = "loginScreen") {
 
     NavHost(navController = navController, startDestination = startDestination) {
         composable("loginScreen") { LoginScreen(navController = navController) }
-        composable("employeeListScreen") { EmployeeListJson(navController = navController) }
-        composable("employeeDetailScreen") { EmployeeDetailScreen() }
+        composable("employeeListScreen") { EmployeeList(navController = navController) }
+        composable("employeeDetailScreen/{selectedEmployeeName}") { navBackStackEntry ->
+            val selectedEmployeeName =
+                navBackStackEntry.arguments?.getString("selectedEmployeeName")
+            EmployeeDetailScreen(selectedEmployeeName)
+        }
     }
 }
