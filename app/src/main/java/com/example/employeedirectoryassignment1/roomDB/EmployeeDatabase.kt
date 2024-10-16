@@ -29,7 +29,7 @@ abstract class EmployeeDatabase : RoomDatabase() {
                     EmployeeDatabase::class.java,
                     "employee_database"
                     )
-                    .addCallback(object :RoomDatabase.Callback() {
+                    .addCallback(object :Callback() {
                         override fun onCreate(db: SupportSQLiteDatabase) {
                             super.onCreate(db)
                             Log.d("EmployeeDatabase", "Database created, populating with initial data")
