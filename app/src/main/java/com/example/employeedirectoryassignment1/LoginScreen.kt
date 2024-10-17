@@ -123,7 +123,7 @@ private fun TopSection() {
             modifier = Modifier
                 .padding(bottom = MaterialTheme.dimens.small1)
                 .align(Alignment.BottomCenter),
-            text = stringResource(id = R.string.login),
+            text = stringResource(R.string.login),
             style = MaterialTheme.typography.headlineLarge,
             color = uiColor
         )

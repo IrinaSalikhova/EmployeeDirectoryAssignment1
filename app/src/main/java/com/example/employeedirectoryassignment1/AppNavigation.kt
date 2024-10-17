@@ -6,10 +6,11 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 
 @Composable
-fun AppNavigation(startDestination: String = "loginScreen") {
+fun AppNavigation(startDestination: String = "navigationScreen") {
     val navController = rememberNavController()
 
     NavHost(navController = navController, startDestination = startDestination) {
+        composable("navigationScreen") { AssignmentNavigationScreen(navController = navController) }
         composable("loginScreen") { LoginScreen(navController = navController) }
         composable("employeeListScreen") { EmployeeList(navController = navController) }
         composable("employeeDetailScreen/{selectedEmployeeName}") { navBackStackEntry ->
@@ -17,5 +18,7 @@ fun AppNavigation(startDestination: String = "loginScreen") {
                 navBackStackEntry.arguments?.getString("selectedEmployeeName")
             EmployeeDetailScreen(selectedEmployeeName)
         }
+        composable("requestWeatherScreen") { RequestWeatherScreen(navController = navController) }
+
     }
 }
