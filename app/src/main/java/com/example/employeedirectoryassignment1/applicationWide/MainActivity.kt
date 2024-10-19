@@ -1,4 +1,4 @@
-package com.example.employeedirectoryassignment1
+package com.example.employeedirectoryassignment1.applicationWide
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

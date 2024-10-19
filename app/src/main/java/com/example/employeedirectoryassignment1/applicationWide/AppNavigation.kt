@@ -1,9 +1,13 @@
-package com.example.employeedirectoryassignment1
+package com.example.employeedirectoryassignment1.applicationWide
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.example.employeedirectoryassignment1.employeeDirectory.EmployeeDetailScreen
+import com.example.employeedirectoryassignment1.employeeDirectory.EmployeeList
+import com.example.employeedirectoryassignment1.employeeDirectory.LoginScreen
+import com.example.employeedirectoryassignment1.weatherApp.RequestWeatherScreen
 
 @Composable
 fun AppNavigation(startDestination: String = "navigationScreen") {

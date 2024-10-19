@@ -21,14 +21,14 @@ import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalView
 import androidx.core.view.WindowCompat
-import com.example.employeedirectoryassignment1.AppUtils
-import com.example.employeedirectoryassignment1.CompactDimens
-import com.example.employeedirectoryassignment1.CompactMediumDimens
-import com.example.employeedirectoryassignment1.CompactSmallDimens
-import com.example.employeedirectoryassignment1.ExpandedDimens
-import com.example.employeedirectoryassignment1.LocalAppDimens
-import com.example.employeedirectoryassignment1.MainActivity
-import com.example.employeedirectoryassignment1.MediumDimens
+import com.example.employeedirectoryassignment1.applicationWide.AppUtils
+import com.example.employeedirectoryassignment1.applicationWide.CompactDimens
+import com.example.employeedirectoryassignment1.applicationWide.CompactMediumDimens
+import com.example.employeedirectoryassignment1.applicationWide.CompactSmallDimens
+import com.example.employeedirectoryassignment1.applicationWide.ExpandedDimens
+import com.example.employeedirectoryassignment1.applicationWide.LocalAppDimens
+import com.example.employeedirectoryassignment1.applicationWide.MainActivity
+import com.example.employeedirectoryassignment1.applicationWide.MediumDimens
 
 private val DarkColorScheme = darkColorScheme(
     primary = BlueGray,

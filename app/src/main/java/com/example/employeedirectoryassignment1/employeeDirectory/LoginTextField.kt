@@ -1,4 +1,4 @@
-package com.example.employeedirectoryassignment1
+package com.example.employeedirectoryassignment1.employeeDirectory
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.layout.Box
@@ -22,6 +22,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
+import com.example.employeedirectoryassignment1.R
 import com.example.employeedirectoryassignment1.ui.theme.Black
 import com.example.employeedirectoryassignment1.ui.theme.dimens
 import com.example.employeedirectoryassignment1.ui.theme.focusedTextFieldText

@@ -68,6 +68,10 @@ dependencies {
     implementation ("com.google.code.gson:gson:2.11.0")
     implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.6")
     implementation("androidx.room:room-ktx:$room_version")
+    implementation ("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
+    implementation ("com.squareup.okhttp3:okhttp:4.9.0")
+    implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.0")
     kapt("androidx.room:room-compiler:$room_version")
 
 }
