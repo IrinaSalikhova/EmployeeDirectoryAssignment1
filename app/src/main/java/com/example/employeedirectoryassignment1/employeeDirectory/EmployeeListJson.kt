@@ -1,4 +1,4 @@
-package com.example.employeedirectoryassignment1
+package com.example.employeedirectoryassignment1.employeeDirectory
 
 import android.content.Context
 import androidx.compose.foundation.layout.Column
@@ -20,6 +20,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.navigation.NavHostController
+import com.example.employeedirectoryassignment1.R
 import com.example.employeedirectoryassignment1.ui.theme.dimens
 import org.json.JSONArray
 import org.json.JSONObject

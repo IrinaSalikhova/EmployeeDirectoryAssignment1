@@ -1,4 +1,4 @@
-package com.example.employeedirectoryassignment1
+package com.example.employeedirectoryassignment1.applicationWide
 
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp

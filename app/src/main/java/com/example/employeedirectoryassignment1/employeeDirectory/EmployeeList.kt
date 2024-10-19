@@ -1,4 +1,4 @@
-package com.example.employeedirectoryassignment1
+package com.example.employeedirectoryassignment1.employeeDirectory
 
 import android.util.Log
 import androidx.compose.foundation.clickable
@@ -29,6 +29,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavHostController
+import com.example.employeedirectoryassignment1.R
 import com.example.employeedirectoryassignment1.roomDB.EmployeeDatabase
 import com.example.employeedirectoryassignment1.roomDB.EmployeeViewModel
 import com.example.employeedirectoryassignment1.roomDB.EmployeeViewModelFactory

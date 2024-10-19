@@ -21,9 +21,12 @@
     <string name="to_login">Go back to log in</string>
     <string name="no_employee_details">No employee details…</string>
     <string name="enterprise_mobile_application_development">Enterprise Mobile\nApplication Development</string>
-    <string name="please_choose">Please choose\nactivity to demo</string>
+    <string name="please_choose">Please choose activity to demo</string>
     <string name="employee_directory">Employee Directory</string>
     <string name="weather_application">Weather Application</string>
     <string name="weather_api">3acd4f551fdb85dea604278ec0e6a1df</string>
+    <string name="city_name">City name</string>
+    <string name="previous_searches">Previous searches</string>
+    <string name="go_back">Go back to assignment selection</string>
 
 </resources>

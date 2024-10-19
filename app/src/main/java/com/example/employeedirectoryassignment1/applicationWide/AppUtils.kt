@@ -1,4 +1,4 @@
-package com.example.employeedirectoryassignment1
+package com.example.employeedirectoryassignment1.applicationWide
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider

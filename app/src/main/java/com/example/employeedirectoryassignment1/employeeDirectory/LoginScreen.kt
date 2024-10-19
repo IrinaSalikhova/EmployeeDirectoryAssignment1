@@ -1,4 +1,4 @@
-package com.example.employeedirectoryassignment1
+package com.example.employeedirectoryassignment1.employeeDirectory
 
 import android.content.Context
 import android.content.res.Configuration
@@ -42,6 +42,8 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
+import com.example.employeedirectoryassignment1.R
+import com.example.employeedirectoryassignment1.applicationWide.ScreenOrientation
 import com.example.employeedirectoryassignment1.ui.theme.Black
 import com.example.employeedirectoryassignment1.ui.theme.buttonContainer
 import com.example.employeedirectoryassignment1.ui.theme.buttonText
