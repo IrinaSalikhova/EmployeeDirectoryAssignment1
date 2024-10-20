@@ -98,14 +98,14 @@ fun EmployeeList(navController: NavHostController) {
         Spacer(modifier = Modifier.height(MaterialTheme.dimens.small3))
 
         Button(
-            onClick = {navController.navigate("loginScreen")},
+            onClick = { navController.navigate("loginScreen") },
             modifier = Modifier
                 .fillMaxWidth()
                 .height(MaterialTheme.dimens.buttonHeight)
         ) {
             Text(stringResource(R.string.log_out))
-            }
         }
+    }
 }
 
 

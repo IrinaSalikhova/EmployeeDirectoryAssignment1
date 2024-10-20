@@ -64,18 +64,18 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
     implementation("androidx.compose.material3:material3:1.3.0")
     implementation("androidx.compose.material3:material3-window-size-class:1.3.0")
-    implementation ("androidx.room:room-runtime:2.6.1")
-    implementation ("com.google.code.gson:gson:2.11.0")
-    implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.6")
+    implementation("androidx.room:room-runtime:2.6.1")
+    implementation("com.google.code.gson:gson:2.11.0")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.6")
     implementation("androidx.room:room-ktx:$room_version")
-    implementation ("com.squareup.retrofit2:retrofit:2.9.0")
-    implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
-    implementation ("com.squareup.okhttp3:okhttp:4.9.0")
-    implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.0")
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+    implementation("com.squareup.okhttp3:okhttp:4.9.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.0")
     kapt("androidx.room:room-compiler:$room_version")
 
 }
 
 kapt {
-    correctErrorTypes=true
+    correctErrorTypes = true
 }

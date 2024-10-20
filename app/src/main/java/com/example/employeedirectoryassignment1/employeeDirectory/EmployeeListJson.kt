@@ -74,7 +74,6 @@ fun EmployeeListJson(navController: NavHostController) {
 }
 
 
-
 fun readJson(applicationContext: Context): List<JSONObject> {
     val employeeList: MutableList<JSONObject> = mutableListOf()
     val jsonArray: JSONArray = applicationContext.assets
