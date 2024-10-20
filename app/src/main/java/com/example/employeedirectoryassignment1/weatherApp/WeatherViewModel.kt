@@ -34,26 +34,24 @@ class WeatherViewModel : ViewModel() {
         }
     }
 
+    var weatherData: WeatherResponse? = null
+
     fun fetchWeatherData(lat: Double, lon: Double, apiKey: String) {
         viewModelScope.launch {
             try {
-                val response: Response<WeatherResponse> = RetrofitInstance.api.getWeatherAndForecast(
-                    lat = lat,
-                    lon = lon,
-                    exclude = null,  // Optionally exclude parts of the data
-                    units = 7.toString(),
-                    apiKey = apiKey
-                )
-
+                val response: Response<WeatherResponse> =
+                    RetrofitInstance.api.getWeatherAndForecast(
+                        lat = lat,
+                        lon = lon,
+                        apiKey = apiKey
+                    )
                 if (response.isSuccessful) {
-                    // Handle the successful response, e.g., updating UI with weather data
-                    val weatherData = response.body()
-                    // Update your UI or LiveData here
+                    weatherData = response.body()
                 } else {
-                    // Handle the error case
+                    errorMessage = "Network Error: ${response.code()}"
                 }
             } catch (e: Exception) {
-                // Handle the exception, e.g., show a toast or log the error
+                errorMessage = "Network Error: ${e.message}"
             }
         }
     }

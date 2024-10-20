@@ -39,7 +39,7 @@ import com.example.employeedirectoryassignment1.ui.theme.buttonText
 import com.example.employeedirectoryassignment1.ui.theme.dimens
 
 @Composable
-fun  AssignmentNavigationScreen (navController: NavHostController) {
+fun AssignmentNavigationScreen(navController: NavHostController) {
     Surface {
         if (ScreenOrientation == Configuration.ORIENTATION_PORTRAIT) {
             PortraitLoginScreen(navController)
@@ -125,7 +125,8 @@ private fun SelectionSection(navController: NavHostController) {
             modifier = Modifier
                 .fillMaxWidth()
                 .height(MaterialTheme.dimens.buttonHeight),
-            onClick = {navController.navigate("loginScreen")
+            onClick = {
+                navController.navigate("loginScreen")
             },
             colors = ButtonDefaults.buttonColors(
                 containerColor = MaterialTheme.colorScheme.buttonContainer,
@@ -144,7 +145,8 @@ private fun SelectionSection(navController: NavHostController) {
             modifier = Modifier
                 .fillMaxWidth()
                 .height(MaterialTheme.dimens.buttonHeight),
-            onClick = { navController.navigate("requestWeatherScreen")
+            onClick = {
+                navController.navigate("requestWeatherScreen")
             },
             colors = ButtonDefaults.buttonColors(
                 containerColor = MaterialTheme.colorScheme.buttonContainer,
@@ -158,5 +160,5 @@ private fun SelectionSection(navController: NavHostController) {
                     .typography.labelMedium.copy(fontWeight = FontWeight.Medium)
             )
         }
-            }
-        }
+    }
+}

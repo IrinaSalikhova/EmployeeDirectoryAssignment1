@@ -20,7 +20,7 @@ interface WeatherApiService {
     suspend fun getWeatherAndForecast(
         @Query("lat") lat: Double,
         @Query("lon") lon: Double,
-        @Query("exclude") exclude: String?,
+        @Query("exclude") exclude: String = "minutely,hourly,alerts",
         @Query("units") units: String = "metric",  // Default to metric units
         @Query("appid") apiKey: String
     ): Response<WeatherResponse>

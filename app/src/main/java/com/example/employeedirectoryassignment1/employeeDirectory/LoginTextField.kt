@@ -38,8 +38,8 @@ fun LoginTextField(
     trailing: String,
     value: String,
     onValueChange: (String) -> Unit
-    ) {
-    
+) {
+
     val context = LocalContext.current
     val uiColor = if (isSystemInDarkTheme()) Color.White else Black
     var errorMessage by remember { mutableStateOf<String?>(null) }
@@ -55,7 +55,7 @@ fun LoginTextField(
         Text(text = it, color = Color.Red, style = MaterialTheme.typography.labelSmall)
         Spacer(modifier = Modifier.height(MaterialTheme.dimens.small1))
     }
-    
+
     TextField(
         modifier = modifier,
         value = value,
@@ -72,7 +72,7 @@ fun LoginTextField(
         trailingIcon = {
             Box(
                 contentAlignment = Alignment.BottomEnd
-            ){
+            ) {
                 TextButton(onClick = {
                     errorMessage = context.getString(R.string.not_supported)
                 }) {

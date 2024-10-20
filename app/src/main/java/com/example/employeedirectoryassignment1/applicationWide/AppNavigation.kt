@@ -8,6 +8,7 @@ import com.example.employeedirectoryassignment1.employeeDirectory.EmployeeDetail
 import com.example.employeedirectoryassignment1.employeeDirectory.EmployeeList
 import com.example.employeedirectoryassignment1.employeeDirectory.LoginScreen
 import com.example.employeedirectoryassignment1.weatherApp.RequestWeatherScreen
+import com.example.employeedirectoryassignment1.weatherApp.WeatherScreen
 
 @Composable
 fun AppNavigation(startDestination: String = "navigationScreen") {
@@ -23,6 +24,7 @@ fun AppNavigation(startDestination: String = "navigationScreen") {
             EmployeeDetailScreen(selectedEmployeeName)
         }
         composable("requestWeatherScreen") { RequestWeatherScreen(navController = navController) }
+        composable("weatherScreen") { WeatherScreen(navController = navController) }
 
     }
 }

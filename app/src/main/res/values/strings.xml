@@ -19,7 +19,7 @@
     <string name="success_register">Your are successfully registered. Now you can log in</string>
     <string name="to_register">Please enter your details to register</string>
     <string name="to_login">Go back to log in</string>
-    <string name="no_employee_details">No employee details…</string>
+    <string name="no_employee_details">No employee details(…, &#8230;)</string>
     <string name="enterprise_mobile_application_development">Enterprise Mobile\nApplication Development</string>
     <string name="please_choose">Please choose activity to demo</string>
     <string name="employee_directory">Employee Directory</string>

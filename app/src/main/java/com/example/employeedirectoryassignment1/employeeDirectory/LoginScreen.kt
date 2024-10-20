@@ -166,7 +166,7 @@ private fun LoginSection(navController: NavHostController) {
                 .fillMaxWidth()
                 .focusRequester(loginFocusRequester),
             value = loginFieldValue,
-            onValueChange = {newValue -> loginFieldValue = newValue}
+            onValueChange = { newValue -> loginFieldValue = newValue }
         )
         Spacer(
             modifier = Modifier.height(MaterialTheme.dimens.small2)
@@ -178,7 +178,7 @@ private fun LoginSection(navController: NavHostController) {
                 .fillMaxWidth()
                 .focusRequester(passwordFocusRequester),
             value = passwordFieldValue,
-            onValueChange = {newValue -> passwordFieldValue = newValue}
+            onValueChange = { newValue -> passwordFieldValue = newValue }
         )
         Spacer(
             modifier = Modifier.height(MaterialTheme.dimens.small2)
@@ -201,16 +201,17 @@ private fun LoginSection(navController: NavHostController) {
                     } else if (passwordFieldValue.isEmpty()) {
                         errorMessage = context.getString(R.string.empty_password_message)
                         passwordFocusRequester.requestFocus()
-                    } else if (!android.util.Patterns.EMAIL_ADDRESS.matcher(loginFieldValue).matches()) {
+                    } else if (!android.util.Patterns.EMAIL_ADDRESS.matcher(loginFieldValue)
+                            .matches()
+                    ) {
                         errorMessage = context.getString(R.string.invalid_email)
                         loginFocusRequester.requestFocus()
-                    }
-                    else if (passwordFieldValue.length < 8 ||
+                    } else if (passwordFieldValue.length < 8 ||
                         !passwordFieldValue.matches(".*[A-Z].*".toRegex()) ||
                         !passwordFieldValue.matches(".*[a-z].*".toRegex()) ||
                         !passwordFieldValue.matches(".*[0-9].*".toRegex()) ||
                         !passwordFieldValue.matches(".*[!@#\$%^&+=].*".toRegex())
-                        ) {
+                    ) {
                         errorMessage = context.getString(R.string.invalid_password)
                         passwordFocusRequester.requestFocus()
                     } else {
@@ -254,7 +255,7 @@ private fun LoginSection(navController: NavHostController) {
                 .fillMaxHeight(fraction = 0.8f)
                 .fillMaxWidth(),
             contentAlignment = Alignment.Center
-        ){
+        ) {
             TextButton(onClick = {
                 if (isSignUpMode) {
                     isSignUpMode = false
@@ -293,6 +294,9 @@ fun isLoginValid(context: Context, enteredUsername: String, enteredPassword: Str
     val storedPassword = sharedPref.getString("password", "")
 
     val boolean = enteredUsername == storedUsername && enteredPassword == storedPassword
-    Log.d("LoginScreen", (boolean.toString() + "isLoginValid" + enteredUsername + storedUsername + enteredPassword + storedPassword ))
+    Log.d(
+        "LoginScreen",
+        (boolean.toString() + "isLoginValid" + enteredUsername + storedUsername + enteredPassword + storedPassword)
+    )
     return boolean
 }

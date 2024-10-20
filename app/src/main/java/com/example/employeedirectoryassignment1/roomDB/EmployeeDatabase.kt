@@ -28,11 +28,14 @@ abstract class EmployeeDatabase : RoomDatabase() {
                     context.applicationContext,
                     EmployeeDatabase::class.java,
                     "employee_database"
-                    )
-                    .addCallback(object :Callback() {
+                )
+                    .addCallback(object : Callback() {
                         override fun onCreate(db: SupportSQLiteDatabase) {
                             super.onCreate(db)
-                            Log.d("EmployeeDatabase", "Database created, populating with initial data")
+                            Log.d(
+                                "EmployeeDatabase",
+                                "Database created, populating with initial data"
+                            )
                             CoroutineScope(Dispatchers.IO).launch {
                                 val employeeDao: EmployeeDao = INSTANCE!!.employeeDao()
                                 val employeeList: JSONArray = context.assets
@@ -40,7 +43,7 @@ abstract class EmployeeDatabase : RoomDatabase() {
                                         JSONArray(it.readText())
                                     }
                                 employeeList.takeIf { it.length() > 0 }?.let { list ->
-                                    for (index in 0 until list.length()){
+                                    for (index in 0 until list.length()) {
                                         val employeeObj = list.getJSONObject(index)
                                         employeeDao.insertEmployee(
                                             Employee(
@@ -62,7 +65,7 @@ abstract class EmployeeDatabase : RoomDatabase() {
                     .build()
                 INSTANCE = instance
                 instance
-                }
+            }
         }
     }
 }

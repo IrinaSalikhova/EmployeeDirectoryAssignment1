@@ -86,7 +86,7 @@ fun EmployeeDirectoryAssignment1Theme(
     var typography = CompactTypography
     var appDimens = CompactDimens
 
-    when(window.widthSizeClass) {
+    when (window.widthSizeClass) {
         WindowWidthSizeClass.Compact -> {
             if (config.screenWidthDp <= 360) {
                 appDimens = CompactSmallDimens
