@@ -147,6 +147,14 @@ private fun RequestSection(navController: NavHostController) {
 
     var selectedCity by remember { mutableStateOf<CityResponse?>(null) }
 
+    val defaultCity = CityResponse(
+        name = "Ottawa",
+        lat = 45.4208777,
+        lon = -75.6901106,
+        country = "CA",
+        state = "Ontario"
+    )
+
     LaunchedEffect(cityNameValue) {
         delay(3000)
         if (cityNameValue.isNotEmpty() && selectedCity == null) {
@@ -252,7 +260,8 @@ private fun RequestSection(navController: NavHostController) {
                 .fillMaxWidth()
                 .height(MaterialTheme.dimens.buttonHeight),
             onClick = {
-                saveCityToPreferences(context, selectedCity!!)
+                val cityToSave = if (selectedCity == null || selectedCity?.name == "") defaultCity else selectedCity
+                saveCityToPreferences(context, cityToSave!!)
                 navController.navigate("weatherScreen")
             },
             colors = ButtonDefaults.buttonColors(
