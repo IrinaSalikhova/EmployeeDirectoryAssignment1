@@ -44,38 +44,19 @@ fun WeatherScreen(navController: NavHostController) {
         contentAlignment = Alignment.Center
     ) {
         Column(horizontalAlignment = Alignment.CenterHorizontally) {
-            weatherData?.daily?.take(5)?.forEach { dailyWeather ->
+            var i=0
+            weatherData?.daily?.take(6)?.forEach { dailyWeather ->
                 // Convert Unix time to a readable date format
                 val date = SimpleDateFormat("EEE, MMM d", Locale.getDefault()).format(Date(dailyWeather.dt * 1000))
 
-                Text(
-                    text = "Date: $date",
-                    style = MaterialTheme.typography.bodyMedium,
-                    color = uiColor
-                )
-                Text(
-                    text = "Day Temp: ${dailyWeather.temp.day}°C / Night Temp: ${dailyWeather.temp.night}°C",
-                    style = MaterialTheme.typography.bodyMedium,
-                    color = uiColor
-                )
-                Text(
-                    text = "Description: ${dailyWeather.weather[0].description}",
-                    style = MaterialTheme.typography.bodyMedium,
-                    color = uiColor
-                )
-                // Load and display the weather icon
-                val iconCode = dailyWeather.weather[0].icon
-                val iconUrl = "http://openweathermap.org/img/wn/${iconCode}@2x.png"
-                AsyncImage(
-                    model = ImageRequest.Builder(LocalContext.current)
-                        .data(iconUrl)
-                        .crossfade(true)
-                        .build(),
-                    contentDescription = dailyWeather.weather[0].description,
-                    modifier = Modifier.size(48.dp)
-                )
-
-                Spacer(modifier = Modifier.padding(vertical = 4.dp))
+                if (i == 0) {
+                    // Show current weather
+                    showCurrentWeather(dailyWeather, requestedCity, uiColor)
+                } else {
+                    // Show forecast weather
+                    showForecastWeather(dailyWeather, date, uiColor)
+                }
+                i++
             }
         }
 
@@ -100,5 +81,96 @@ fun getCityFromPreferences(context: Context): CityResponse{
         sharedPreferences.getString("lon", "0")!!.toDouble(),
         sharedPreferences.getString("country", "").toString())
     return requestedCity
+}
+
+@Composable
+fun showCurrentWeather(dailyWeather: DailyWeather, requestedCity: CityResponse, uiColor: Color) {
+    Row(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(vertical = 8.dp),
+        verticalAlignment = Alignment.CenterVertically,
+        horizontalArrangement = Arrangement.SpaceAround
+    ) {
+        // Display the city name
+        Text(
+            text = "${requestedCity.name}",
+            style = MaterialTheme.typography.bodyLarge,
+            color = uiColor
+        )
+
+        // Display the weather description
+        Text(
+            text = "${dailyWeather.weather[0].description}",
+            style = MaterialTheme.typography.bodyLarge,
+            color = uiColor
+        )
+
+        // Display the weather icon
+        val iconCode = dailyWeather.weather[0].icon
+        val iconUrl = "http://openweathermap.org/img/wn/${iconCode}@4x.png"
+        AsyncImage(
+            model = ImageRequest.Builder(LocalContext.current)
+                .data(iconUrl)
+                .crossfade(true)
+                .build(),
+            contentDescription = dailyWeather.weather[0].description,
+            modifier = Modifier.size(48.dp)
+        )
+
+        // Display the temperature range
+        Text(
+            text = "${dailyWeather.temp.day}°C~${dailyWeather.temp.night}°C",
+            style = MaterialTheme.typography.bodyMedium,
+            color = uiColor
+        )
+    }
+    Spacer(modifier = Modifier.padding(vertical = 4.dp))
+}
+
+@Composable
+fun showForecastWeather(dailyWeather: DailyWeather, date: String, uiColor: Color) {
+    Row(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(vertical = 8.dp),
+        verticalAlignment = Alignment.CenterVertically,
+        horizontalArrangement = Arrangement.SpaceAround
+    ) {
+        // Display the date
+        Text(
+            text = date,
+            style = MaterialTheme.typography.bodyMedium,
+            color = uiColor
+        )
+
+        // Display the weather description
+        Text(
+            text = "${dailyWeather.weather[0].description}",
+            style = MaterialTheme.typography.bodyMedium,
+            color = uiColor
+        )
+
+        // Display the weather icon
+        val iconCode = dailyWeather.weather[0].icon
+        val iconUrl = "http://openweathermap.org/img/wn/${iconCode}@2x.png"
+        AsyncImage(
+            model = ImageRequest.Builder(LocalContext.current)
+                .data(iconUrl)
+                .crossfade(true)
+                .build(),
+            contentDescription = dailyWeather.weather[0].description,
+            modifier = Modifier.size(48.dp)
+        )
+
+        // Display the temperature range
+        Text(
+            text = "${dailyWeather.temp.night}°C~${dailyWeather.temp.day}°C",
+            style = MaterialTheme.typography.bodyMedium,
+            color = uiColor
+        )
+    }
+
+    Spacer(modifier = Modifier.padding(vertical = 2.dp))
 }
 
