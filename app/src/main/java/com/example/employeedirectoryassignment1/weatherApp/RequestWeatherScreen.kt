@@ -61,6 +61,7 @@ import com.example.employeedirectoryassignment1.ui.theme.textFieldContainer
 import com.example.employeedirectoryassignment1.ui.theme.unfocusedTextFieldText
 import kotlinx.coroutines.delay
 
+
 @Composable
 fun RequestWeatherScreen(navController: NavHostController) {
 
@@ -260,9 +261,16 @@ private fun RequestSection(navController: NavHostController) {
                 .fillMaxWidth()
                 .height(MaterialTheme.dimens.buttonHeight),
             onClick = {
-                val cityToSave = if (selectedCity == null || selectedCity?.name == "") defaultCity else selectedCity
-                saveCityToPreferences(context, cityToSave!!)
-                navController.navigate("weatherScreen")
+                // Check if the selected city is valid
+                val isCityValid = selectedCity != null || cityList.any { it.name.equals(cityNameValue, ignoreCase = true) }
+
+                if (isCityValid) {
+                    val cityToSave = selectedCity ?: cityList.find { it.name.equals(cityNameValue, ignoreCase = true) }
+                    saveCityToPreferences(context, cityToSave!!)
+                    navController.navigate("weatherScreen")
+                } else {
+                    Toast.makeText(context, R.string.invalid_city_name, Toast.LENGTH_SHORT).show()
+                }
             },
             colors = ButtonDefaults.buttonColors(
                 containerColor = MaterialTheme.colorScheme.buttonContainer,
@@ -271,7 +279,7 @@ private fun RequestSection(navController: NavHostController) {
             shape = RoundedCornerShape(size = 4.dp)
         ) {
             Text(
-                text = stringResource(R.string.weather_application),
+                text = stringResource(R.string.view_weather),
                 style = MaterialTheme
                     .typography.labelMedium.copy(fontWeight = FontWeight.Medium)
             )
