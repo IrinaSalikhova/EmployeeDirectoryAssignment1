@@ -264,7 +264,16 @@ private fun RequestSection(navController: NavHostController) {
             contentAlignment = Alignment.Center
         ) {
             TextButton(onClick = {
-                navController.navigate("weatherScreen")
+                // Check if the selected city is valid
+                val isCityValid = selectedCity != null || cityList.any { it.name.equals(cityNameValue, ignoreCase = true) }
+
+                if (isCityValid) {
+                    val cityToSave = selectedCity ?: cityList.find { it.name.equals(cityNameValue, ignoreCase = true) }
+                    saveCityToPreferences(context, cityToSave!!)
+                    navController.navigate("weatherScreen")
+                } else {
+                    Toast.makeText(context, R.string.invalid_city_name, Toast.LENGTH_SHORT).show()
+                }
             }) {
                 Text(
                     text = stringResource(R.string.update_city),
