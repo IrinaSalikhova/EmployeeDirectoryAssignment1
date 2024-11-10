@@ -10,7 +10,7 @@ import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
 import retrofit2.Response
 
-class WeatherViewModel : ViewModel() {
+class WeatherViewModel(fakeRepository: WeatherApiService) : ViewModel() {
 
     private val _cityList = MutableStateFlow<List<CityResponse>>(emptyList())
     val cityList: StateFlow<List<CityResponse>> get() = _cityList

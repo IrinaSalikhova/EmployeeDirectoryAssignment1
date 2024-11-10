@@ -44,6 +44,7 @@ android {
 dependencies {
     implementation(libs.androidx.navigation.compose)
     implementation(libs.androidx.storage)
+    implementation(libs.androidx.core.testing)
     val room_version = "2.6.1"
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
@@ -87,6 +88,15 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
     implementation("io.coil-kt.coil3:coil-compose:3.0.2")
     implementation("androidx.work:work-runtime-ktx:2.7.1")
+    implementation ("org.jetbrains.kotlin:kotlin-stdlib") // Kotlin standard library
+
+    testImplementation ("junit:junit:4.13.2")
+    testImplementation ("org.mockito:mockito-core:4.0.0")
+    testImplementation ("org.mockito:mockito-inline:4.0.0") // For mocking final classes
+    testImplementation ("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.9.0")
+    testImplementation ("androidx.arch.core:core-testing:2.2.0") // For LiveData testing
+
+
 }
 kapt {
     correctErrorTypes = true
