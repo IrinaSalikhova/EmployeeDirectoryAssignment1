@@ -73,7 +73,7 @@ dependencies {
     implementation("com.squareup.okhttp3:okhttp:4.9.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.0")
     kapt("androidx.room:room-compiler:$room_version")
-
+    implementation("io.coil-kt:coil-compose:2.2.2")
 }
 
 kapt {

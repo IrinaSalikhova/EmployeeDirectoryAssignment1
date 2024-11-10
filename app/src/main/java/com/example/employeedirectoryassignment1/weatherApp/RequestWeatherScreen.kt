@@ -255,27 +255,7 @@ private fun RequestSection(navController: NavHostController) {
         }
 
         Spacer(modifier = Modifier.weight(1f))
-        Button(
-            modifier = Modifier
-                .fillMaxWidth()
-                .height(MaterialTheme.dimens.buttonHeight),
-            onClick = {
-                val cityToSave = if (selectedCity == null || selectedCity?.name == "") defaultCity else selectedCity
-                saveCityToPreferences(context, cityToSave!!)
-                navController.navigate("weatherScreen")
-            },
-            colors = ButtonDefaults.buttonColors(
-                containerColor = MaterialTheme.colorScheme.buttonContainer,
-                contentColor = MaterialTheme.colorScheme.buttonText
-            ),
-            shape = RoundedCornerShape(size = 4.dp)
-        ) {
-            Text(
-                text = stringResource(R.string.weather_application),
-                style = MaterialTheme
-                    .typography.labelMedium.copy(fontWeight = FontWeight.Medium)
-            )
-        }
+
         Box(
             modifier = Modifier
                 .fillMaxWidth()
@@ -284,10 +264,10 @@ private fun RequestSection(navController: NavHostController) {
             contentAlignment = Alignment.Center
         ) {
             TextButton(onClick = {
-                navController.navigate("navigationScreen")
+                navController.navigate("weatherScreen")
             }) {
                 Text(
-                    text = stringResource(R.string.go_back),
+                    text = stringResource(R.string.update_city),
                     style = MaterialTheme.typography.labelMedium.copy(fontWeight = FontWeight.Bold),
                     color = uiColor
                 )
