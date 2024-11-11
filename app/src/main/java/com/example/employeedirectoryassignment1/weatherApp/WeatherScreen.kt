@@ -35,6 +35,7 @@ fun WeatherScreen(navController: NavHostController) {
     viewModel.fetchWeatherData(requestedCity.lat, requestedCity.lon, context.getString(R.string.weather_api))
 
     val weatherData = viewModel.weatherData
+    val errorMessage = viewModel.errorMessage
     Log.i("WeatherScreen", weatherData.toString())
 
     Box(
@@ -44,19 +45,35 @@ fun WeatherScreen(navController: NavHostController) {
         contentAlignment = Alignment.Center
     ) {
         Column(horizontalAlignment = Alignment.CenterHorizontally) {
-            var i=0
-            weatherData?.daily?.take(6)?.forEach { dailyWeather ->
-                // Convert Unix time to a readable date format
-                val date = SimpleDateFormat("EEE, MMM d", Locale.getDefault()).format(Date(dailyWeather.dt * 1000))
 
-                if (i == 0) {
-                    // Show current weather
-                    showCurrentWeather(dailyWeather, requestedCity, uiColor)
-                } else {
-                    // Show forecast weather
-                    showForecastWeather(dailyWeather, date, uiColor)
+
+            if (errorMessage != null) {
+                // Display error message
+                Text(
+                    text = errorMessage,
+                    style = MaterialTheme.typography.bodyMedium,
+                    color = Color.Red,
+                    modifier = Modifier.padding(16.dp)
+                )
+            } else {
+
+                var i = 0
+                weatherData?.daily?.take(6)?.forEach { dailyWeather ->
+                    // Convert Unix time to a readable date format
+                    val date = SimpleDateFormat(
+                        "EEE, MMM d",
+                        Locale.getDefault()
+                    ).format(Date(dailyWeather.dt * 1000))
+
+                    if (i == 0) {
+                        // Show current weather
+                        showCurrentWeather(dailyWeather, requestedCity, uiColor)
+                    } else {
+                        // Show forecast weather
+                        showForecastWeather(dailyWeather, date, uiColor)
+                    }
+                    i++
                 }
-                i++
             }
         }
 
