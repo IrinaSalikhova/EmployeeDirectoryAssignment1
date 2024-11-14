@@ -28,5 +28,9 @@
     <string name="city_name">City name</string>
     <string name="previous_searches">Previous searches</string>
     <string name="go_back">Go back to assignment selection</string>
+    <string name="select_city">Select City</string>
+    <string name="update_city">Update</string>
+    <string name="invalid_city_name">Please enter valid city name</string>
+    <string name="view_weather">View weather</string>
 
 </resources>

@@ -146,7 +146,7 @@ private fun SelectionSection(navController: NavHostController) {
                 .fillMaxWidth()
                 .height(MaterialTheme.dimens.buttonHeight),
             onClick = {
-                navController.navigate("requestWeatherScreen")
+                navController.navigate("weatherScreen")
             },
             colors = ButtonDefaults.buttonColors(
                 containerColor = MaterialTheme.colorScheme.buttonContainer,
