@@ -32,5 +32,8 @@
     <string name="update_city">Update</string>
     <string name="invalid_city_name">Please enter valid city name</string>
     <string name="view_weather">View weather</string>
+    <string name="it_support">IT Support</string>
+    <string name="techfix">TechFix</string>
+    <string name="go_to_map">Go to map</string>
 
 </resources>
