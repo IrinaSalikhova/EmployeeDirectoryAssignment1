@@ -88,6 +88,9 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
     implementation("io.coil-kt.coil3:coil-compose:3.0.2")
     implementation("androidx.work:work-runtime-ktx:2.7.1")
+    implementation("com.google.android.gms:play-services-maps:18.1.0")
+    implementation("com.google.android.gms:play-services-location:21.0.1")
+    implementation("com.google.maps.android:maps-compose:2.11.0")
 }
 
 kapt {
