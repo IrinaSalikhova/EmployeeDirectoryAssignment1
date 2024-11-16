@@ -160,5 +160,25 @@ private fun SelectionSection(navController: NavHostController) {
                     .typography.labelMedium.copy(fontWeight = FontWeight.Medium)
             )
         }
+        Spacer(modifier = Modifier.height(MaterialTheme.dimens.small2))
+        Button(
+            modifier = Modifier
+                .fillMaxWidth()
+                .height(MaterialTheme.dimens.buttonHeight),
+            onClick = {
+                navController.navigate("ITSupport")
+            },
+            colors = ButtonDefaults.buttonColors(
+                containerColor = MaterialTheme.colorScheme.buttonContainer,
+                contentColor = MaterialTheme.colorScheme.buttonText
+            ),
+            shape = RoundedCornerShape(size = 4.dp)
+        ) {
+            Text(
+                text = stringResource(R.string.it_support),
+                style = MaterialTheme
+                    .typography.labelMedium.copy(fontWeight = FontWeight.Medium)
+            )
+        }
     }
 }
