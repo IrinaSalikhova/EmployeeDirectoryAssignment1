@@ -1,7 +1,7 @@
-##Setup:
+## Setup:
 - no special setup needed, everything is ready. However, if emulator is used for running the app, to display a pin for « your » location in emulator you have to setup a location in emulator settings.
 
-##Features List:
+## Features List:
 1. Task Management:
   - Database-backed task storage with Room.
   - CRUD operations (Create, Read, Update, Delete) for tasks.
@@ -16,7 +16,7 @@
   - Utilizes NavController for seamless screen transitions.
   - Includes buttons and top app bar for clear navigation cues.
 
-##App Structure:
+## App Structure:
 ###  Database:
     - TaskDatabase: Singleton Room database instance with task management functionalities. Prepopulated database callback for sample data insertion.
     - TaskDao: Data Access Object interface for handling database queries.
@@ -29,11 +29,11 @@
     - appNavigation.kt: Centralizes navigation logic across the app.
 
 
-##Contributions:
-###Samuel:
-###Hung:
-###Mahima:
-###Irina:
+## Contributions:
+### Samuel:
+### Hung:
+### Mahima:
+### Irina:
   1. Project Structure: Designed and organized the app's structure, creating packages for database (ITRoomDB) and IT-related screens (ITSupport).
   2. Google Maps Setup: Configured the app to use the Google Maps SDK, set up API integration in AndroidManifest.xml and build.gradle.
   3. Database Development: Implemented the TaskDatabase class with Room's singleton pattern, designed the Task entity for task data storage, developed TaskDao with CRUD and task retrieval queries; added a prepopulation mechanism for sample tasks during the database initialization.
