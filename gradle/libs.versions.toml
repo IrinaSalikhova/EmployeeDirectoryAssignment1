@@ -13,6 +13,7 @@ runtimeLivedata = "1.7.3"
 transportRuntime = "3.3.0"
 navigationCompose = "2.8.2"
 storage = "1.5.0"
+datastorePreferencesCoreJvm = "1.1.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -34,6 +35,7 @@ androidx-runtime-livedata = { group = "androidx.compose.runtime", name = "runtim
 transport-runtime = { group = "com.google.android.datatransport", name = "transport-runtime", version.ref = "transportRuntime" }
 androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigationCompose" }
 androidx-storage = { group = "androidx.test.services", name = "storage", version.ref = "storage" }
+androidx-datastore-preferences-core-jvm = { group = "androidx.datastore", name = "datastore-preferences-core-jvm", version.ref = "datastorePreferencesCoreJvm" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

@@ -4,6 +4,9 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.example.employeedirectoryassignment1.ITSupport.LoginScreenIT
+import com.example.employeedirectoryassignment1.ITSupport.MapView
+import com.example.employeedirectoryassignment1.ITSupport.TaskList
 import com.example.employeedirectoryassignment1.employeeDirectory.EmployeeDetailScreen
 import com.example.employeedirectoryassignment1.employeeDirectory.EmployeeList
 import com.example.employeedirectoryassignment1.employeeDirectory.LoginScreen
@@ -25,6 +28,10 @@ fun AppNavigation(startDestination: String = "navigationScreen") {
         }
         composable("requestWeatherScreen") { RequestWeatherScreen(navController = navController) }
         composable("weatherScreen") { WeatherScreen(navController = navController) }
+
+        composable("ITSupport") { LoginScreenIT(navController = navController) }
+        composable("ITTaskList") { TaskList(navController = navController) }
+        composable("MapView") { MapView(navController = navController) }
 
     }
 }
