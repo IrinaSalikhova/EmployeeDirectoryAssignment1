@@ -31,7 +31,14 @@ import androidx.core.app.ActivityCompat
 import androidx.navigation.NavHostController
 import android.Manifest
 import android.location.Location
+import androidx.compose.foundation.background
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.material3.Checkbox
+import androidx.compose.ui.Alignment
 import com.example.employeedirectoryassignment1.ITRoomDB.Task
 import com.example.employeedirectoryassignment1.ITRoomDB.TaskDatabase
 
@@ -40,18 +47,24 @@ import com.example.employeedirectoryassignment1.ui.theme.buttonContainer
 import com.example.employeedirectoryassignment1.ui.theme.buttonText
 import com.example.employeedirectoryassignment1.ui.theme.dimens
 import com.google.android.gms.location.LocationServices
+import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.model.BitmapDescriptorFactory
 import com.google.android.gms.maps.model.CameraPosition
 import com.google.android.gms.maps.model.LatLng
+import com.google.android.gms.maps.model.LatLngBounds
 import com.google.maps.android.compose.GoogleMap
 import com.google.maps.android.compose.Marker
 import com.google.maps.android.compose.MarkerState
 import com.google.maps.android.compose.rememberCameraPositionState
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun MapView(navController: NavHostController, taskId: Int) {
-
+    Log.d("MapView", "Task ID: $taskId")
     val context = LocalContext.current
     val database = TaskDatabase.getDatabase(context)
 
@@ -69,6 +82,7 @@ fun MapView(navController: NavHostController, taskId: Int) {
         hasPermission = isGranted
     }
     LaunchedEffect(Unit) {
+
         if (ActivityCompat.checkSelfPermission(context,
                 Manifest.permission.ACCESS_FINE_LOCATION
             ) == PackageManager.PERMISSION_GRANTED
@@ -85,13 +99,18 @@ fun MapView(navController: NavHostController, taskId: Int) {
     }
 
     // Use LaunchedEffect to collect data and log it
+    LaunchedEffect(taskId) {
+
+        val task = withContext(Dispatchers.IO) {database.taskDao().getTaskById(taskId)}
+        taskClicked = task
+        Log.d("MapView", "Task: ${task?.clientFirstName} ${task?.clientLastName}, Address: ${task?.address}")
+    }
     LaunchedEffect(Unit) {
         taskFlow.collect { tasks ->
             tasks.forEach { task ->
                 Log.d("MapView", "Task: ${task.clientFirstName} ${task.clientLastName}, Address: ${task.address}")
             }
         }
-        taskClicked = database.taskDao().getTaskById(taskId)
     }
 
     Scaffold(
@@ -102,7 +121,8 @@ fun MapView(navController: NavHostController, taskId: Int) {
             )
         },
         content = { padding ->
-            GoogleMapComposeView(userLocation, taskClicked)
+            GoogleMapComposeView(userLocation, taskClicked,
+                { navController.navigate("ITTaskList") }, database)
 
             Spacer(modifier = Modifier.height(MaterialTheme.dimens.medium3))
             Button(
@@ -111,7 +131,7 @@ fun MapView(navController: NavHostController, taskId: Int) {
                     .padding(padding)
                     .height(MaterialTheme.dimens.buttonHeight),
                 onClick = {
-                    navController.navigate("navigationScreen")
+                    navController.navigate("ITTaskList")
                 },
                 colors = ButtonDefaults.buttonColors(
                     containerColor = MaterialTheme.colorScheme.buttonContainer,
@@ -120,7 +140,7 @@ fun MapView(navController: NavHostController, taskId: Int) {
                 shape = RoundedCornerShape(size = 4.dp)
             ) {
                 Text(
-                    text = stringResource(R.string.go_back),
+                    text = stringResource(R.string.go_back_to_tasks),
                     style = MaterialTheme
                         .typography.labelMedium.copy(fontWeight = FontWeight.Medium)
                 )
@@ -131,28 +151,105 @@ fun MapView(navController: NavHostController, taskId: Int) {
 }
 
 @Composable
-fun GoogleMapComposeView(userLocation: LatLng, task: Task?) {
+fun GoogleMapComposeView(
+    userLocation: LatLng,
+    task: Task?,
+    onGoBack: () -> Unit,
+    database: TaskDatabase
+) {
+    var isMarkerClicked by remember { mutableStateOf(false) }
+    var isChecked by remember { mutableStateOf(task?.isDone ?: false) }
     val cameraPositionState = rememberCameraPositionState {
         position = CameraPosition.fromLatLngZoom(userLocation, 12f)
     }
 
-    GoogleMap(
-        modifier = Modifier.fillMaxSize(),
-        cameraPositionState = cameraPositionState
-    ) {
-        Marker(
-            state = MarkerState(position = userLocation),
-            title = "Your Location",
-            icon = BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN)
-        )
-        if (task != null) {
+    LaunchedEffect(task) {
+        isChecked = task?.isDone ?: false
+    }
+
+    LaunchedEffect(userLocation, task) {
+        task?.let {
+            val bounds = LatLngBounds.builder()
+                .include(userLocation) // Include user's location
+                .include(LatLng(it.lat, it.lon)) // Include task location
+                .build()
+            cameraPositionState.move(CameraUpdateFactory.newLatLngBounds(bounds, 100))
+        }
+    }
+
+    Box(modifier = Modifier.fillMaxSize()) {
+        GoogleMap(
+            modifier = Modifier.fillMaxSize(),
+            cameraPositionState = cameraPositionState
+        ) {
             Marker(
-                state = MarkerState(position = LatLng(task.lat, task.lon)),
-                title = "${task.clientFirstName} ${task.clientLastName}",
-                snippet = task.address,
-                icon = BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN)
+                state = MarkerState(position = userLocation),
+                title = "Your Location",
+                icon = BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_VIOLET)
             )
+            if (task != null) {
+                Marker(
+                    state = MarkerState(position = LatLng(task.lat, task.lon)),
+                    title = "${task.clientFirstName} ${task.clientLastName}",
+                    snippet = task.address,
+                    icon = BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN),
+                    onClick = {
+                        isMarkerClicked = true
+                        true
+                    }
+                )
+            }
+        }
+
+        // Overlay UI for Checkbox and Button
+        if (isMarkerClicked) {
+            Column(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(16.dp)
+                    .background(MaterialTheme.colorScheme.surface)
+                    .align(Alignment.BottomCenter) // Position at the bottom of the screen
+                    .padding(16.dp),
+                verticalArrangement = Arrangement.spacedBy(8.dp)
+            ) {
+                Text(
+                    text = stringResource(R.string.confirm_task_selection),
+                    style = MaterialTheme.typography.titleMedium
+                )
+
+                Row(
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Checkbox(
+                        checked = isChecked,
+                        onCheckedChange = {
+                            isChecked = it
+                            task?.isDone = it
+                            CoroutineScope(Dispatchers.IO).launch {
+                                if (task != null) {
+                                    database.taskDao().updateTask(task)
+                                }
+                            }
+                        }
+                    )
+                    Text(
+                        text = if (isChecked) "Completed" else "Pending"
+                    )
+                }
+
+                Button(
+                    onClick = {
+                        isMarkerClicked = false
+                        onGoBack()
+                    },
+                    enabled = isChecked
+                ) {
+                    Text(text = "Go Back")
+                }
+            }
         }
 
     }
 }
+
+
