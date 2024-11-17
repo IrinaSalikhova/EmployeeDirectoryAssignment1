@@ -1,9 +1,11 @@
 package com.example.employeedirectoryassignment1.applicationWide
 
 import androidx.compose.runtime.Composable
+import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import androidx.navigation.navArgument
 import com.example.employeedirectoryassignment1.ITSupport.LoginScreenIT
 import com.example.employeedirectoryassignment1.ITSupport.MapView
 import com.example.employeedirectoryassignment1.ITSupport.TaskList
@@ -31,7 +33,15 @@ fun AppNavigation(startDestination: String = "navigationScreen") {
 
         composable("ITSupport") { LoginScreenIT(navController = navController) }
         composable("ITTaskList") { TaskList(navController = navController) }
-        composable("MapView") { MapView(navController = navController) }
+        composable(
+            "MapView/{taskId}",
+            listOf(navArgument("taskId") {
+                type = NavType.IntType
+            })) { backStackEntry ->
+            val taskId = backStackEntry.arguments?.getInt("taskId")
+            if (taskId != null) {
+                MapView(navController = navController, taskId)
+            } }
 
     }
 }

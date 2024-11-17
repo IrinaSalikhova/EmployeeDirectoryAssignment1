@@ -35,5 +35,7 @@
     <string name="it_support">IT Support</string>
     <string name="techfix">TechFix</string>
     <string name="go_to_map">Go to map</string>
+    <string name="go_back_to_tasks">Go back to the list of tasks</string>
+    <string name="confirm_task_selection">Confirm Task Selection</string>
 
 </resources>
