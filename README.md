@@ -31,7 +31,12 @@
 
 ## Contributions:
 ### Samuel:
-### Hung:
+### Hung: (TaskList.kt)
+1. Data Loading: Successfully loaded the task data from the SQLite database.
+2. Sorting Tasks: Implemented functionality to display the task list ordered by address.
+3. Task Modification: Enabled users to modify task data by clicking on the checkbox next to each task, which toggles the completion status and updates the database accordingly.
+4. Navigation to Address Page: Integrated a clickable address link for each task that redirects users to map details associated with each task.
+5. Logout button clean SharedPreferences("username") when clicked and redirect to Login page.
 ### Mahima:
 ### Irina:
   1. Project Structure: Designed and organized the app's structure, creating packages for database (ITRoomDB) and IT-related screens (ITSupport).
