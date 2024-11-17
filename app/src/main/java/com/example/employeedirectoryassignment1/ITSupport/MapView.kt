@@ -32,6 +32,7 @@ import androidx.navigation.NavHostController
 import android.Manifest
 import android.location.Location
 import androidx.compose.foundation.layout.Spacer
+import com.example.employeedirectoryassignment1.ITRoomDB.Task
 import com.example.employeedirectoryassignment1.ITRoomDB.TaskDatabase
 
 import com.example.employeedirectoryassignment1.R
@@ -39,6 +40,7 @@ import com.example.employeedirectoryassignment1.ui.theme.buttonContainer
 import com.example.employeedirectoryassignment1.ui.theme.buttonText
 import com.example.employeedirectoryassignment1.ui.theme.dimens
 import com.google.android.gms.location.LocationServices
+import com.google.android.gms.maps.model.BitmapDescriptorFactory
 import com.google.android.gms.maps.model.CameraPosition
 import com.google.android.gms.maps.model.LatLng
 import com.google.maps.android.compose.GoogleMap
@@ -48,12 +50,13 @@ import com.google.maps.android.compose.rememberCameraPositionState
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun MapView(navController: NavHostController) {
+fun MapView(navController: NavHostController, taskId: Int) {
 
     val context = LocalContext.current
     val database = TaskDatabase.getDatabase(context)
 
     val taskFlow = database.taskDao().getAllTasks()
+    var taskClicked by remember { mutableStateOf<Task?>(null) }
 
     val fusedLocationClient = LocationServices.getFusedLocationProviderClient(context)
     val defaultLocation = LatLng(45.4215, -75.6972) // Ottawa's coordinates
@@ -88,6 +91,7 @@ fun MapView(navController: NavHostController) {
                 Log.d("MapView", "Task: ${task.clientFirstName} ${task.clientLastName}, Address: ${task.address}")
             }
         }
+        taskClicked = database.taskDao().getTaskById(taskId)
     }
 
     Scaffold(
@@ -98,7 +102,7 @@ fun MapView(navController: NavHostController) {
             )
         },
         content = { padding ->
-            GoogleMapComposeView(userLocation)
+            GoogleMapComposeView(userLocation, taskClicked)
 
             Spacer(modifier = Modifier.height(MaterialTheme.dimens.medium3))
             Button(
@@ -127,7 +131,7 @@ fun MapView(navController: NavHostController) {
 }
 
 @Composable
-fun GoogleMapComposeView(userLocation: LatLng) {
+fun GoogleMapComposeView(userLocation: LatLng, task: Task?) {
     val cameraPositionState = rememberCameraPositionState {
         position = CameraPosition.fromLatLngZoom(userLocation, 12f)
     }
@@ -138,7 +142,17 @@ fun GoogleMapComposeView(userLocation: LatLng) {
     ) {
         Marker(
             state = MarkerState(position = userLocation),
-            title = "Your Location"
+            title = "Your Location",
+            icon = BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN)
         )
+        if (task != null) {
+            Marker(
+                state = MarkerState(position = LatLng(task.lat, task.lon)),
+                title = "${task.clientFirstName} ${task.clientLastName}",
+                snippet = task.address,
+                icon = BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN)
+            )
+        }
+
     }
 }

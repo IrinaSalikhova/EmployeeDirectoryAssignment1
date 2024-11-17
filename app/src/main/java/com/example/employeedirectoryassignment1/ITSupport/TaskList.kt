@@ -89,7 +89,7 @@ fun TaskList(navController: NavHostController) {
                                 }
                             },
                             onAddressClick = {
-                                navController.navigate("MapView/${task.address}")
+                                navController.navigate("MapView/${task.id}")
                             }
                         )
                     }
