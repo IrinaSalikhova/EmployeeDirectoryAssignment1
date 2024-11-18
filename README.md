@@ -1,6 +1,9 @@
 ## Setup:
 - no special setup needed, everything is ready. However, if emulator is used for running the app, to display a pin for « your » location in emulator you have to setup a location in emulator settings.
 
+## Login:
+- ken / 1234
+
 ## Features List:
 1. Task Management:
   - Database-backed task storage with Room.
