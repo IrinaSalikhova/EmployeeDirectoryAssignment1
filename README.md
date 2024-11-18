@@ -38,6 +38,7 @@
 2. Tasks management: Set all the tasks and complete the tasks Division.
 3. Coding: Complete the LoginScreen. The input value check, login verification logic. Login succesful then save userName to sharedPreferences("username"). 
 4. Code Merging: Merge all the coding and check, confirm the Compiling is done.
+5. Submission: Prepare the video.
 ### Hung: (TaskList.kt)
 1. Data Loading: Successfully loaded the task data from the SQLite database.
 2. Sorting Tasks: Implemented functionality to display the task list ordered by address.
