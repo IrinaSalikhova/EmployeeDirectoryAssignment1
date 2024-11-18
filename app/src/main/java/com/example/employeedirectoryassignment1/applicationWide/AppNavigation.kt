@@ -1,5 +1,6 @@
 package com.example.employeedirectoryassignment1.applicationWide
 
+import android.content.Context
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
@@ -16,7 +17,7 @@ import com.example.employeedirectoryassignment1.weatherApp.RequestWeatherScreen
 import com.example.employeedirectoryassignment1.weatherApp.WeatherScreen
 
 @Composable
-fun AppNavigation(startDestination: String = "navigationScreen") {
+fun AppNavigation(startDestination: String = "navigationScreen",context: Context) {
     val navController = rememberNavController()
 
     NavHost(navController = navController, startDestination = startDestination) {
@@ -31,7 +32,7 @@ fun AppNavigation(startDestination: String = "navigationScreen") {
         composable("requestWeatherScreen") { RequestWeatherScreen(navController = navController) }
         composable("weatherScreen") { WeatherScreen(navController = navController) }
 
-        composable("ITSupport") { LoginScreenIT(navController = navController) }
+        composable("ITSupport") { LoginScreenIT(navController = navController, context = context) }
         composable("ITTaskList") { TaskList(navController = navController) }
         composable(
             "MapView/{taskId}",
