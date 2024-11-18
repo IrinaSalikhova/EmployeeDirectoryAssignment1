@@ -11,6 +11,6 @@ data class Task(
     val address: String,
     val lon: Double,
     val lat: Double,
-    val isDone: Boolean
+    var isDone: Boolean
 )
 

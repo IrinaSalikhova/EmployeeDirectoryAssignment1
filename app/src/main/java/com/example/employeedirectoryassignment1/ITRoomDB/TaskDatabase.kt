@@ -2,7 +2,9 @@ package com.example.employeedirectoryassignment1.ITRoomDB
 
 import android.content.Context
 import android.util.Log
+import androidx.room.Dao
 import androidx.room.Database
+import androidx.room.Query
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
@@ -51,11 +53,11 @@ class PrepopulateCallback(context: Context) : RoomDatabase.Callback() {
 
     private suspend fun populateDatabase(dao: TaskDao) {
         val sampleTasks = listOf(
-            Task(clientFirstName = "Alice", clientLastName = "Smith", address = "101 Bank St, Ottawa", lon = -75.6992, lat = 45.4215, isDone = false),
-            Task(clientFirstName = "Bob", clientLastName = "Johnson", address = "150 Elgin St, Ottawa", lon = -75.6894, lat = 45.4200, isDone = true),
-            Task(clientFirstName = "Charlie", clientLastName = "Brown", address = "200 Rideau St, Ottawa", lon = -75.6895, lat = 45.4275, isDone = false),
-            Task(clientFirstName = "Diana", clientLastName = "White", address = "75 Laurier Ave E, Ottawa", lon = -75.6866, lat = 45.4239, isDone = true),
-            Task(clientFirstName = "Eve", clientLastName = "Davis", address = "320 Queen St, Ottawa", lon = -75.7044, lat = 45.4197, isDone = false)
+            Task(clientFirstName = "Alice", clientLastName = "Smith", address = "564 Golden Ave, Ottawa", lon = -75.7583, lat = 45.3853, isDone = false),
+            Task(clientFirstName = "Bob", clientLastName = "Johnson", address = "150 Elgin St, Ottawa", lon = -75.6894, lat = 45.4200, isDone = false),
+            Task(clientFirstName = "Charlie", clientLastName = "Brown", address = "39 Parkglen Dr, Ottawa", lon = -75.7565, lat = 45.3467, isDone = false),
+            Task(clientFirstName = "Diana", clientLastName = "White", address = "75 Laurier Ave E, Ottawa", lon = -75.6866, lat = 45.4239, isDone = false),
+            Task(clientFirstName = "Eve", clientLastName = "Davis", address = "154 Shearer Crescent, Kanata", lon = -75.8852, lat = 45.3020, isDone = false)
         )
         dao.insertListofTasks(sampleTasks) // Insert all sample tasks
         Log.d("MapView", "Data inserted")

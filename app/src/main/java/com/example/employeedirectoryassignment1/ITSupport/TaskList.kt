@@ -25,6 +25,7 @@ import com.example.employeedirectoryassignment1.ui.theme.dimens
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -34,19 +35,12 @@ fun TaskList(navController: NavHostController) {
     val taskDao = database.taskDao()
 
     // State to hold the list of tasks
-    var tasks by remember { mutableStateOf(emptyList<Task>()) }
+    val tasks by taskDao.getAllTasks()
+        .collectAsState(initial = emptyList())
     var userName by remember { mutableStateOf("") }
     val snackbarHostState = remember { SnackbarHostState() } // Snackbar state
 
-    // Collect tasks from the database
     LaunchedEffect(Unit) {
-        database.taskDao().getAllTasks().collect { taskList ->
-            // Sort tasks by address
-            tasks = taskList.sortedBy { it.address }
-            taskList.forEach { task ->
-                Log.d("TaskList", "Task: ${task.clientFirstName} ${task.clientLastName}, Address: ${task.address}")
-            }
-        }
         // Load user name from SharedPreferences
         val sharedPreferences = context.getSharedPreferences("task_prefs", Context.MODE_PRIVATE)
         userName = sharedPreferences.getString("username", "User  Name") ?: "User  Name"
@@ -89,7 +83,7 @@ fun TaskList(navController: NavHostController) {
                                 }
                             },
                             onAddressClick = {
-                                navController.navigate("MapView/${task.address}")
+                                navController.navigate("MapView/${task.id}")
                             }
                         )
                     }
