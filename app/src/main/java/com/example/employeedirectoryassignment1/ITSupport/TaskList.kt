@@ -42,8 +42,8 @@ fun TaskList(navController: NavHostController) {
 
     LaunchedEffect(Unit) {
         // Load user name from SharedPreferences
-        val sharedPreferences = context.getSharedPreferences("task_prefs", Context.MODE_PRIVATE)
-        userName = sharedPreferences.getString("username", "User  Name") ?: "User  Name"
+        val sharedPreferences = context.getSharedPreferences("login", Context.MODE_PRIVATE)
+        userName = sharedPreferences.getString("username", null) ?: "Unknow User"
     }
 
     Scaffold(

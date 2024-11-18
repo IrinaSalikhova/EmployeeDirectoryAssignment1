@@ -15,7 +15,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             EmployeeDirectoryAssignment1Theme {
-                AppNavigation()
+                AppNavigation(context = this)
                 // Schedule the periodic work
                 scheduleWeatherUpdates()
 
